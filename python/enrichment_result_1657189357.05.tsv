@@ -1,0 +1,3033 @@
+class name	pos_pval	neg_pval
+6-Cyano-7-nitroquinoxaline-2,3-dione	1.0	1.0
+Indolizidines	0.763510251603	0.273466142934
+Vitamins	0.0250989691791	0.876066807201
+Caffeine	1.0	0.0828715527531
+Chlormethiazole	1.0	1.0
+Benzoquinones	1.0	1.0
+Floxuridine	1.0	1.0
+3,5-bis(trifluoromethyl)benzyl N-acetyltryptophan	1.0	1.0
+monorden	1.0	1.0
+Deoxycytidine	1.0	1.0
+SQ 29548	1.0	1.0
+Histamine H2 Antagonists	1.0	1.0
+Picrotoxin	1.0	1.0
+N-(fluorenyl-9-methoxycarbonyl)leucine	1.0	1.0
+levocabastine	1.0	1.0
+Arsenicals	1.0	1.0
+Phosphinic Acids	1.0	0.228679189538
+Acyclovir	1.0	1.0
+Hydroxyquinolines	0.239278189055	1.0
+Oxymetholone	1.0	1.0
+ICI 118551	1.0	1.0
+CD 437	0.0660398020524	1.0
+WEB 2086	1.0	1.0
+Phosphoramide Mustards	1.0	1.0
+glimepiride	1.0	1.0
+Carbofuran	1.0	1.0
+Incretins	1.0	1.0
+Methylergonovine	1.0	0.0828715527531
+Antibiotics, Antitubercular	0.00833306472289	1.0
+Cholic Acid	1.0	1.0
+Benactyzine	1.0	1.0
+4-((4-(4-chlorophenyl)-2-thiazolyl)amino)phenol	1.0	1.0
+Growth Inhibitors	0.00233369410292	0.500054132163
+2-phenylacetylenesulfonamide	1.0	1.0
+N-(6,6-dimethyl-5-((1-methylpiperidin-4-yl)carbonyl)-1,4,5,6-tetrahydropyrrolo(3,4-c)pyrazol-3-yl)-3-methylbutanamide	1.0	1.0
+thermozymocidin	1.0	1.0
+Niridazole	1.0	1.0
+cyclazosin	1.0	1.0
+danusertib	1.0	1.0
+Luteolytic Agents	1.0	1.0
+Antimalarials	1.0	0.808134848307
+Adrenergic alpha-1 Receptor Antagonists	1.0	1.0
+Sulfisoxazole	1.0	1.0
+Chemicals and Drugs Category	0.933960197948	0.917128447247
+Inflammation Mediators	1.0	0.489882334783
+Dopamine Agents	1.0	1.0
+Lipids	1.0	1.0
+9-(tetrahydro-2-furyl)-adenine	1.0	1.0
+Serotonin 5-HT1 Receptor Antagonists	1.0	1.0
+3-beta-(2-(diethylamino)ethoxy)androst-5-en-17-one	1.0	1.0
+Nitrogen Mustard Compounds	1.0	1.0
+Fenamates	0.239278189055	1.0
+Aldehydes	1.0	1.0
+tyrphostin 47	1.0	1.0
+L 690488	1.0	1.0
+FR 180204	0.0660398020524	1.0
+Pimozide	1.0	1.0
+Oxadiazoles	1.0	1.0
+Gemfibrozil	1.0	1.0
+Excitatory Amino Acid Agents	0.348367390197	0.461799420336
+levosulpiride	1.0	1.0
+Gabexate	1.0	1.0
+Mineralocorticoids	1.0	1.0
+Fused-Ring Compounds	1.0	1.0
+linopirdine	1.0	1.0
+N-((4-(2-cyanophenyl)-1-piperazinyl)methyl)-3-methylbenzamide	1.0	1.0
+diprotin A	1.0	1.0
+Strophanthins	1.0	1.0
+Cytochrome P-450 CYP1A2 Inhibitors	1.0	1.0
+Polyunsaturated Alkamides	1.0	1.0
+Cyclopentolate	1.0	1.0
+Toluidines	1.0	0.0828715527531
+LY 255283	1.0	1.0
+Bromobenzenes	0.0660398020524	1.0
+Metabolic Side Effects of Drugs and Substances	0.910315805415	1.0
+IRL 2500	1.0	0.0828715527531
+naltrindole	1.0	1.0
+para-Aminobenzoates	0.380570824692	0.454716282469
+Antidepressive Agents	0.270196722049	0.936574246472
+Talampicillin	1.0	1.0
+Nortriptyline	0.0660398020524	1.0
+Epinephrine	1.0	1.0
+Bongkrekic Acid	1.0	1.0
+Alcohol Deterrents	1.0	0.0282572466623
+iodophenpropit	1.0	1.0
+Cannabinoid Receptor Antagonists	1.0	1.0
+Cysteine	1.0	1.0
+Thioridazine	1.0	1.0
+Organothiophosphorus Compounds	1.0	1.0
+Analytical, Diagnostic and Therapeutic Techniques and Equipment Category	1.0	1.0
+2-Chloroadenosine	0.0660398020524	1.0
+Diazepam	1.0	0.0828715527531
+Macrocyclic Compounds	1.0	1.0
+4-phenylbutyric acid	1.0	1.0
+GABA Agents	0.262549948103	0.895976351771
+4-(2,6-dichlorobenzoylamino)-1H-pyrazole-3-carboxylic acid piperidin-4-ylamide	1.0	1.0
+Taurine	1.0	0.00236612461268
+Mestranol	1.0	1.0
+Thiazines	1.0	0.489882334783
+Vidarabine	1.0	1.0
+Nalbuphine	1.0	1.0
+Decitabine	0.0660398020524	1.0
+naltrindole benzofuran	1.0	1.0
+Phenoxyacetates	0.239278189055	1.0
+kenpaullone	0.0660398020524	1.0
+secnidazole	1.0	1.0
+Pseudoephedrine	1.0	1.0
+Norepinephrine	1.0	1.0
+Troglitazone	1.0	1.0
+PF 3845	1.0	1.0
+Domperidone	1.0	1.0
+Macrolides	1.0	0.790636341527
+ozagrel	1.0	1.0
+PNU-282987	1.0	1.0
+Androstenols	1.0	1.0
+ciprofibrate	1.0	1.0
+Thapsigargin	1.0	1.0
+Testosterone	1.0	1.0
+Phenelzine	1.0	1.0
+Tacrine	1.0	1.0
+Laxatives	1.0	1.0
+penciclovir	1.0	1.0
+Moclobemide	1.0	1.0
+AM 92016	1.0	1.0
+Anticarcinogenic Agents	1.0	0.000261669362324
+Estrogen Receptor Modulators	1.0	1.0
+Isoindoles	0.126494150293	0.541641981282
+Nitrazepam	1.0	1.0
+Enkephalin, Leucine	1.0	1.0
+tegaserod	1.0	1.0
+azasetron	1.0	1.0
+medrysone	1.0	1.0
+Mebendazole	1.0	1.0
+Tolcapone	0.0660398020524	1.0
+methionyl-leucyl-phenylalanine	1.0	1.0
+deguelin	1.0	1.0
+Interferon Inducers	1.0	1.0
+Triiodobenzoic Acids	1.0	1.0
+Olopatadine Hydrochloride	1.0	1.0
+ortho-Aminobenzoates	0.380570824692	1.0
+2-phenylaminoadenosine	1.0	1.0
+Hydroxy Acids	0.0122597043096	0.956776992921
+tivozanib	1.0	1.0
+Androstenediols	1.0	1.0
+fludarabine	1.0	1.0
+terconazole	1.0	1.0
+FG 9041	0.0660398020524	1.0
+prunetin	1.0	1.0
+cinobufagin	1.0	1.0
+Tubocurarine	1.0	1.0
+protopine	1.0	1.0
+Proscillaridin	1.0	1.0
+Nimodipine	1.0	1.0
+Erythromycin Ethylsuccinate	1.0	1.0
+Estrone	1.0	1.0
+xaliproden	0.0660398020524	1.0
+Tiagabine	1.0	1.0
+3-(4-t-butylphenyl)-N-(2,3-dihydrobenzo(b)(1,4)dioxin-6-yl)acrylamide	1.0	1.0
+Reproductive Control Agents	0.772116177287	0.69041901146
+Imino Pyranoses	1.0	1.0
+Benzoxepins	1.0	1.0
+Chalcones	1.0	1.0
+talniflumate	1.0	1.0
+sapropterin	1.0	1.0
+Histamine Antagonists	1.0	0.909337818966
+1H-3-benzazepin-7-ol, 8-bromo-2,3,4,5-tetrahydro-3-methyl-5-phenyl-	1.0	0.0828715527531
+Lumicolchicines	1.0	1.0
+Quinolizidines	1.0	1.0
+Pyrones	1.0	1.0
+Catecholamines	1.0	0.500054132163
+Tromethamine	1.0	1.0
+monastrol	1.0	1.0
+Cholestanes	0.104315311092	1.0
+Ergocalciferols	0.0660398020524	1.0
+Fatty Acid Synthesis Inhibitors	1.0	1.0
+Zeranol	1.0	1.0
+niguldipine	1.0	1.0
+Dilazep	1.0	1.0
+triacsin C	1.0	1.0
+Penfluridol	1.0	1.0
+Enzyme Activators	1.0	1.0
+tyrphostin A46	1.0	1.0
+Alkaloids	1.0	1.0
+Prostaglandins	1.0	0.24630205958
+amperozide	1.0	1.0
+Jupal	1.0	1.0
+Hydrocarbons, Acyclic	0.055823682255	0.0162060046038
+Cloprostenol	1.0	1.0
+pirinixic acid	1.0	1.0
+bufalin	1.0	1.0
+AG-879	1.0	1.0
+Glycopyrrolate	1.0	0.0828715527531
+Dermatologic Agents	0.292417188879	0.674314978275
+Alprazolam	1.0	1.0
+Naproxen	1.0	1.0
+Propylthiouracil	0.0660398020524	1.0
+robustic acid	1.0	0.0828715527531
+Phorbol Esters	1.0	1.0
+withaferin A	1.0	1.0
+Cytochrome P-450 CYP2C9 Inducers	1.0	1.0
+Clemastine	1.0	1.0
+Nabumetone	1.0	1.0
+Serine	0.0660398020524	1.0
+sibutramine	1.0	1.0
+Phthalimides	0.0463999753469	1.0
+Organic Chemicals	1.0	1.0
+Peptide Hormones	1.0	0.0475172047509
+Neuromuscular Agents	1.0	0.403080857025
+Antihypertensive Agents	1.0	1.0
+Organoselenium Compounds	1.0	1.0
+Dimethylamines	1.0	1.0
+Carbamazepine	1.0	1.0
+2-(4-(1-(hydroxyimino)-2,3-dihydro-1H-inden-5-yl)-3-(pyridin-4-yl)-1H-pyrazol-1-yl)ethan-1-ol	1.0	1.0
+Penicillin G	0.289611724754	1.0
+Ethylamines	0.820609889891	1.0
+Phenylpropanolamine	0.127747655045	1.0
+Polyphenols	1.0	1.0
+Tegafur	1.0	1.0
+Minoxidil	1.0	1.0
+N-acetyl-S-farnesylcysteine	1.0	1.0
+Podophyllotoxin	1.0	1.0
+Phenoxypropanolamines	0.58967635933	1.0
+retinol acetate	1.0	0.00351333902871
+LY 344864	1.0	1.0
+Cyclopentanes	1.0	0.405292396525
+Chlorobenzenes	1.0	1.0
+nomegestrol acetate	1.0	1.0
+Eplerenone	1.0	1.0
+Cardenolides	1.0	1.0
+pipamperone	1.0	1.0
+Zalcitabine	1.0	1.0
+K 858	1.0	0.0828715527531
+Leprostatic Agents	1.0	1.0
+Chemically-Induced Disorders	0.910315805415	1.0
+Oleic Acids	1.0	0.158911193028
+Ampicillin	0.239278189055	1.0
+Canrenoic Acid	1.0	1.0
+Photosensitizing Agents	0.0833792134624	0.454716282469
+RS 67333	1.0	1.0
+Palonosetron	1.0	1.0
+N-(4-cyanophenyl)-2-(4-(2,3,6,7-tetrahydro-2,6-dioxo-1,3-dipropyl-1H-purin-8-yl)-phenoxy)acetamide	1.0	1.0
+Pharmacologic Actions	1.0	1.0
+2-(4-(3-quinolin-6-ylmethyl-3H-(1,2,3)triazolo(4,5-b)pyrazin-5-yl)pyrazol-1-yl)ethanol	1.0	1.0
+Iloprost	1.0	1.0
+JHW 015	1.0	1.0
+CCT018159	1.0	1.0
+Pindolol	1.0	1.0
+SJ 172550	1.0	1.0
+2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	0.0660398020524	1.0
+Semaxinib	1.0	1.0
+Fluconazole	1.0	1.0
+Physiological Phenomena	0.055823682255	0.926752373324
+Fluoresceins	1.0	1.0
+nobiletin	1.0	1.0
+Naphthaleneacetic Acids	1.0	1.0
+Bibenzyls	1.0	1.0
+CGP 20712A	1.0	1.0
+Organogold Compounds	1.0	1.0
+Pigments, Biological	0.0200626350605	0.141665315349
+Dibenzoxepins	1.0	1.0
+Ganciclovir	1.0	1.0
+Fertility Agents	1.0	1.0
+gingerol	1.0	1.0
+epibatidine	1.0	1.0
+alpha-Linolenic Acid	1.0	1.0
+esmolol	1.0	1.0
+Trapidil	1.0	1.0
+Bicuculline	0.0660398020524	1.0
+Polymers	1.0	1.0
+Sch 28080	1.0	1.0
+Onium Compounds	1.0	0.152780436102
+Sequestering Agents	1.0	0.405292396525
+N-(4-(2-ethyl-4-(3-methylphenyl)-1,3-thiazol-5-yl)-2-pyridyl)benzamide	1.0	1.0
+Cyclohexanols	1.0	1.0
+Maleates	0.00847261721979	1.0
+Clopidogrel	1.0	1.0
+fentanyl isothiocyanate	1.0	1.0
+Polyethylene Glycols	1.0	1.0
+NSC 663284	1.0	1.0
+Fusaric Acid	1.0	1.0
+metaxalone	1.0	1.0
+Amrinone	1.0	1.0
+BMS 641988	1.0	1.0
+Prostaglandin Antagonists	1.0	1.0
+eliprodil	0.0660398020524	1.0
+tofacitinib	1.0	1.0
+BIX 02188	1.0	0.0828715527531
+Alkanesulfonates	0.127747655045	0.158911193028
+2-methyl-4-(N-propyl-N-cycloproanemethylamino)-5-chloro-6-(2,4,6-trichloranilino)pyrimidine	1.0	1.0
+Dibenzothiepins	1.0	1.0
+Dihydroxycholecalciferols	1.0	1.0
+Diet, Food, and Nutrition	0.055823682255	0.926752373324
+Auranofin	1.0	1.0
+Metronidazole	1.0	0.0828715527531
+Roscovitine	0.0660398020524	1.0
+N-(2-aminoethyl)-5-isoquinolinesulfonamide	1.0	1.0
+7-(hydroxyimino)cyclopropan(b)chromen-1a-carbxoylic acid ethyl ester	1.0	1.0
+Antimitotic Agents	0.728524978933	0.489882334783
+Quinoxalines	0.410596907078	0.565168266459
+3-deoxyvasicine	1.0	1.0
+Benzodiazepines	0.688406765663	0.0611843867937
+NPI 2358	1.0	1.0
+Desipramine	1.0	1.0
+2-((aminocarbonyl)amino)-5-(4-fluorophenyl)-3-thiophenecarboxamide	1.0	1.0
+4-hydroxy-2-nonenal	1.0	1.0
+Phloretin	1.0	1.0
+Aniline Compounds	0.940933271482	0.474438216391
+Antimetabolites, Antineoplastic	0.56048447513	1.0
+Lignans	1.0	0.351416515016
+Sphingosine 1 Phosphate Receptor Modulators	1.0	1.0
+SIB 1757	0.0660398020524	1.0
+Aminobutyrates	1.0	1.0
+Oxazolidinones	0.018237592574	1.0
+Manufactured Materials	1.0	1.0
+Carbolines	0.0833792134624	1.0
+rosmarinic acid	1.0	0.0828715527531
+JNJ38877605	1.0	1.0
+Beclomethasone	1.0	1.0
+Digoxigenin	1.0	1.0
+Synephrine	1.0	1.0
+WYE 125132	1.0	1.0
+Anti-Obesity Agents	0.0833792134624	0.454716282469
+Flunarizine	1.0	1.0
+Am 580	1.0	1.0
+Triamcinolone	1.0	1.0
+paxilline	1.0	1.0
+Digitoxin	1.0	1.0
+baeomycesic acid	1.0	1.0
+Ergolines	1.0	0.103952639531
+GW 1929	1.0	1.0
+Milnacipran	1.0	1.0
+Chlorthalidone	1.0	1.0
+Isocarboxazid	1.0	1.0
+Renal Agents	0.198095994911	1.0
+pyrrolidine dithiocarbamic acid	1.0	1.0
+Indolequinones	1.0	1.0
+Axitinib	1.0	1.0
+Biphenyl Compounds	1.0	0.214567408347
+norgestimate	1.0	0.0828715527531
+Thiocarbamates	0.18540579343	0.228679189538
+GYKI 52466	1.0	1.0
+2,2,5,7,8-pentamethyl-1-hydroxychroman	1.0	1.0
+myricetin	0.0660398020524	1.0
+8-ethyl-4-methyl-2-phenyl-4,5,7,8-tetrahydro-1H-imidazo(2,1-i)purin-5-one	1.0	1.0
+Biguanides	0.289611724754	0.351416515016
+3-((3,5-bis(trifluoromethyl)phenyl)methyloxy)-2-phenylpiperidine	1.0	1.0
+Acrylates	1.0	1.0
+Anti-Infective Agents, Urinary	0.0639687382906	1.0
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0.380570824692	1.0
+Isobutyrates	0.239278189055	0.292690107075
+L803087	1.0	0.0828715527531
+L 368899	1.0	1.0
+fludrocortisone acetate	1.0	1.0
+RO 10-5824	1.0	1.0
+Azithromycin	1.0	1.0
+Hydroxamic Acids	0.003871080524	1.0
+Betaxolol	1.0	1.0
+1-hexylcarbamoyl-5-fluorouracil	0.0660398020524	1.0
+Phenanthridines	1.0	1.0
+Acids, Acyclic	0.0554097460125	1.0
+Bucladesine	1.0	1.0
+((3Z)-N-(3-chlorophenyl)-3-((3,5-dimethyl-4-((4-methylpiperazin-1-yl)carbonyl)-1H-pyrrol-2-yl)methylene)-N-methyl-2-oxo-2,3-dihydro-1H-indole-5-sulfonamide)	0.0660398020524	1.0
+Methylamines	1.0	0.228679189538
+Amino Acid Oxidoreductases	1.0	1.0
+Imiquimod	1.0	1.0
+Propranolol	1.0	1.0
+Isotretinoin	1.0	1.0
+Glutethimide	1.0	1.0
+Maprotiline	1.0	1.0
+scriptaid	1.0	1.0
+secoisolariciresinol	1.0	0.0828715527531
+CAY10603	0.0660398020524	1.0
+Hydroxylamines	0.0180650682088	0.852372388377
+relcovaptan	1.0	1.0
+tubacin	1.0	1.0
+Benzilates	1.0	1.0
+Diseases Category	0.910315805415	1.0
+L 750667	1.0	1.0
+Rifaximin	1.0	1.0
+mefexamide	1.0	1.0
+Salicylamides	1.0	1.0
+LY 303511	1.0	1.0
+Flavanones	1.0	1.0
+Tetramisole	1.0	1.0
+Fibrinolytic Agents	1.0	1.0
+Carbonyl Cyanide m-Chlorophenyl Hydrazone	1.0	1.0
+17-(dimethylaminoethylamino)-17-demethoxygeldanamycin	1.0	1.0
+Amiodarone	1.0	1.0
+Pharmaceutical Vehicles	1.0	1.0
+2-(4-fluorobenzoylamino)benzoic acid methyl ester	1.0	1.0
+Sodium Potassium Chloride Symporter Inhibitors	1.0	1.0
+Cardiovascular Agents	1.0	1.0
+Dehydrocholic Acid	1.0	1.0
+N(6)-cyclohexyl-2-O-methyladenosine	1.0	1.0
+benazepril	1.0	1.0
+9-(2-hydroxy-3-nonyl)adenine	0.0660398020524	1.0
+4-(4-(trifluoromethyl)phenyl)-N-(6-fluoro-1H-indazol-5-yl)-2-methyl-6-oxo-1,4,5,6-tetrahydro-3-pyridinecarboxamide	1.0	1.0
+benzylaminopurine	1.0	1.0
+methixene	1.0	1.0
+flurofamide	1.0	1.0
+Ergonovine	1.0	0.158911193028
+Hydrocarbons, Iodinated	1.0	1.0
+Food Ingredients	1.0	1.0
+Isoxsuprine	1.0	1.0
+naringenin	1.0	1.0
+LY 165163	1.0	1.0
+Mephentermine	1.0	1.0
+Norpregnanes	0.52923176599	0.61477660823
+1-((4,5-bis(4-methoxyphenyl)-2-thiazoyl)carbonyl)-4-methylpiperazine	1.0	1.0
+Isonipecotic Acids	1.0	1.0
+3-aminobenzamide	1.0	1.0
+Tretinoin	0.127747655045	1.0
+Ethinyl Estradiol	1.0	1.0
+Amino Acids, Cyclic	1.0	0.183281121634
+Fluorometholone	1.0	1.0
+Chrysenes	1.0	1.0
+Anesthetics, General	0.239278189055	0.292690107075
+Estradiol	0.239278189055	0.292690107075
+dihydrexidine	1.0	1.0
+naringin	1.0	1.0
+Alkylating Agents	1.0	0.541641981282
+N-(4-hydroxyphenyl)arachidonylamide	1.0	1.0
+dehydroabietylamine	1.0	1.0
+nitazoxanide	1.0	1.0
+Appetite Depressants	0.0639687382906	1.0
+Salicylates	1.0	1.0
+salvinorin A	1.0	1.0
+Fatty Acids, Monounsaturated	1.0	0.541641981282
+Isoflavones	1.0	0.676297663556
+Detergents	1.0	0.292690107075
+Bemegride	1.0	1.0
+N,N'-dicyclopentyl-2-methylsulfanyl-5-nitro-pyrimidine-4,6-diamine	1.0	1.0
+Inorganic Chemicals	1.0	1.0
+Famciclovir	1.0	1.0
+GW0742	1.0	1.0
+argatroban	1.0	1.0
+Amoxicillin	1.0	1.0
+Ranolazine	1.0	1.0
+Phenytoin	1.0	1.0
+Pyrethrins	1.0	1.0
+Prostaglandins, Synthetic	1.0	1.0
+Voriconazole	1.0	1.0
+alfatradiol	1.0	1.0
+Cytochrome P-450 Enzyme Inducers	1.0	1.0
+Bromobenzoates	1.0	1.0
+Nitroso Compounds	1.0	1.0
+Alitretinoin	0.0660398020524	1.0
+Succinimides	1.0	1.0
+Diterpene Alkaloids	1.0	1.0
+Ionophores	1.0	1.0
+RS 100329	1.0	1.0
+Flumazenil	1.0	1.0
+Cholinergic Agents	0.772116177287	0.69041901146
+Phenylurea Compounds	1.0	0.676297663556
+Pregnenes	1.0	0.876066807201
+Organophosphorus Compounds	1.0	0.31001134022
+Spiperone	1.0	1.0
+balsalazide	1.0	1.0
+2-Pyridinylmethylsulfinylbenzimidazoles	1.0	0.351416515016
+Penicillic Acid	1.0	1.0
+BMS 536924	1.0	1.0
+OMDM-2 cpd	1.0	1.0
+2,3-dioxo-6-nitro-7-sulfamoylbenzo(f)quinoxaline	1.0	1.0
+Therapeutics	1.0	1.0
+Hydroxyprogesterones	1.0	1.0
+Reverse Transcriptase Inhibitors	1.0	0.541641981282
+Cilostazol	1.0	1.0
+Muscle Relaxants, Central	1.0	0.579788375668
+Dasatinib	0.0660398020524	1.0
+AGK2 compound	1.0	1.0
+17-alpha-Hydroxyprogesterone	1.0	1.0
+4-(2-aminoethyl)benzenesulfonamide	1.0	1.0
+bulleyaconitine A	1.0	1.0
+Isoquinolines	0.12007423514	0.0182961730015
+3-(2-hydroxy-4-(1,1-dimethylheptyl)phenyl)-4-(3-hydroxypropyl)cyclohexanol	1.0	1.0
+Carbazoles	0.642408762608	0.728040498886
+Sunscreening Agents	1.0	1.0
+Mutagens	1.0	1.0
+Pregnenediones	1.0	0.790636341527
+resistomycin	1.0	1.0
+Adrenal Cortex Hormones	1.0	0.720831383417
+Clarithromycin	1.0	1.0
+Hydroxypropiophenone	1.0	1.0
+Bepridil	1.0	1.0
+N-oleoylethanolamine	1.0	0.158911193028
+CGP 37157	1.0	1.0
+Cysteine Proteinase Inhibitors	1.0	0.351416515016
+Pyrrolidinones	0.459956407841	0.541641981282
+Crizotinib	1.0	1.0
+prostaglandin A1	1.0	0.0828715527531
+apicidin	1.0	1.0
+Levonorgestrel	1.0	1.0
+Indomethacin	1.0	1.0
+Keto Acids	0.127747655045	0.158911193028
+Ivermectin	1.0	1.0
+Phenformin	1.0	1.0
+Adrenergic beta-3 Receptor Antagonists	1.0	1.0
+piretanide	1.0	1.0
+Benzoates	0.233066445236	1.0
+Antibiotics, Antineoplastic	0.323543131998	0.771551817207
+Antiviral Agents	0.150485243785	0.474438216391
+lofexidine	1.0	0.0828715527531
+desloratadine	1.0	1.0
+Catechin	1.0	1.0
+Furocoumarins	1.0	1.0
+rottlerin	1.0	1.0
+Pharmaceutical Solutions	1.0	1.0
+Air Pollutants	1.0	0.292690107075
+Ammonium Compounds	1.0	0.123459112845
+3-(8-amino-1-(2-phenylquinolin-7-yl)imidazo(1,5-a)pyrazin-3-yl)-1-methylcyclobutanol	1.0	1.0
+Cyclopropanes	1.0	1.0
+1-(3-chlorophenyl)biguanide	1.0	0.0828715527531
+Bone Density Conservation Agents	0.173597067471	1.0
+7-hydroxycoumarin	1.0	0.0828715527531
+Clomipramine	1.0	1.0
+GR 159897	1.0	1.0
+SEW2871	1.0	1.0
+Proton Ionophores	1.0	1.0
+Cytochrome P-450 CYP2C9 Inhibitors	1.0	1.0
+JTK 303	1.0	1.0
+Aromatase Inhibitors	1.0	1.0
+Fluvastatin	1.0	1.0
+Poly(ADP-ribose) Polymerase Inhibitors	1.0	1.0
+Carbenoxolone	1.0	1.0
+Pterins	0.18540579343	1.0
+Naphthyridines	1.0	0.152780436102
+NGB 2904	1.0	1.0
+flupirtine	1.0	1.0
+Serotonin Uptake Inhibitors	0.198095994911	0.278197782419
+Prilocaine	1.0	1.0
+Ritanserin	1.0	1.0
+Amdinocillin Pivoxil	1.0	1.0
+dolasetron	1.0	1.0
+arctigenin	1.0	1.0
+palbociclib	1.0	1.0
+Spironolactone	1.0	1.0
+amonafide	1.0	1.0
+hydroxyfasudil	0.0660398020524	1.0
+Loxapine	1.0	1.0
+Demeclocycline	1.0	0.0828715527531
+Atomoxetine Hydrochloride	1.0	1.0
+Hydrocarbons	1.0	1.0
+Norbornanes	0.127747655045	0.158911193028
+Hydantoins	1.0	1.0
+Propantheline	1.0	1.0
+Dihydroergocristine	1.0	1.0
+hydrocortisone hemisuccinate	1.0	1.0
+4'-octyl-4-biphenylcarboxylic acid	1.0	1.0
+quercetagetin	1.0	1.0
+Benzopyrans	1.0	1.0
+Trimethyl Ammonium Compounds	1.0	1.0
+JTE 013	1.0	1.0
+Dothiepin	1.0	1.0
+Devazepide	1.0	0.0828715527531
+Vemurafenib	1.0	1.0
+Tolazamide	1.0	1.0
+Analgesics	1.0	1.0
+naftifine	0.0660398020524	1.0
+Bufanolides	1.0	1.0
+rimexolone	1.0	1.0
+Eugenol	1.0	1.0
+Coenzymes	0.0639687382906	1.0
+Iproniazid	0.0660398020524	1.0
+3-(2-ethylphenoxy)-1-(1,2,3,4-tetrahydronaphth-1-ylamino)-2-propanol oxalate	1.0	1.0
+Sulfasalazine	1.0	0.0828715527531
+1H-(1,2,4)oxadiazolo(4,3-a)quinoxalin-1-one	1.0	1.0
+1-propyl-8-(4-sulfophenyl)xanthine	1.0	1.0
+azelastine	1.0	0.0828715527531
+gamma-Aminobutyric Acid	1.0	1.0
+Iodoacetates	1.0	1.0
+Anthracyclines	1.0	1.0
+Celecoxib	1.0	1.0
+Desoxycorticosterone Acetate	1.0	1.0
+Iridoids	1.0	1.0
+Quinpirole	1.0	1.0
+Benzene Derivatives	1.0	1.0
+Bridged-Ring Compounds	0.104315311092	0.500054132163
+Theobromine	1.0	1.0
+MSDC-0160	1.0	1.0
+Oxyphenonium	1.0	0.0828715527531
+Ticrynafen	1.0	1.0
+Oxytocics	1.0	0.0702571717711
+1-(2-amino-2-carboxyethyl)-3-(2-carboxybenzyl)pyrimidine-2,4-dione	1.0	1.0
+piperine	1.0	1.0
+Levofloxacin	1.0	1.0
+Adenosine	0.380570824692	1.0
+Umbelliferones	0.239278189055	0.0475172047509
+2,2-bis(4-glycidyloxyphenyl)propane	1.0	1.0
+rizatriptan	1.0	1.0
+Amino Alcohols	0.716466479393	0.848336071862
+Free Radical Scavengers	1.0	1.0
+Alkanesulfonic Acids	0.289611724754	0.00100610200642
+seneciphylline	1.0	1.0
+Topoisomerase I Inhibitors	1.0	1.0
+Nisoldipine	1.0	1.0
+brazilin	1.0	1.0
+Epirubicin	1.0	1.0
+Meptazinol	1.0	1.0
+Phenanthrenes	1.0	1.0
+Neuromuscular Nondepolarizing Agents	1.0	1.0
+Topoisomerase Inhibitors	1.0	0.824178452904
+Pyridazines	0.56048447513	0.646866774809
+Gonadal Steroid Hormones	0.807768600415	0.615751637442
+Leukotriene Antagonists	1.0	1.0
+Oxindoles	1.0	1.0
+N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride	1.0	1.0
+Betahistine	1.0	1.0
+NNC 711	1.0	1.0
+Fursultiamin	1.0	1.0
+Deoxyribonucleosides	0.49577387394	0.579788375668
+AICA ribonucleotide	1.0	1.0
+Carbidopa	1.0	0.0828715527531
+Niacinamide	1.0	1.0
+Epithelial Sodium Channel Blockers	1.0	1.0
+Oligosaccharides	1.0	1.0
+amcinonide	1.0	1.0
+Cromakalim	1.0	1.0
+tyrphostin A23	1.0	1.0
+Nitric Acid	1.0	1.0
+Latanoprost	1.0	1.0
+Ketoses	1.0	1.0
+Tocolytic Agents	0.52923176599	1.0
+Cyclooxygenase Inhibitors	0.464396444389	0.622394784758
+SB 408124	1.0	1.0
+Environmental Pollutants	1.0	0.292690107075
+Eicosanoids	1.0	0.432841726566
+Hyoscyamine	1.0	1.0
+FK 888	0.0660398020524	1.0
+Phenalenes	1.0	0.0828715527531
+5-(2,2-difluorobenzo(1,3)dioxol-5-ylmethylene)thiazolidine-2,4-dione	1.0	1.0
+Adrenergic alpha-1 Receptor Agonists	0.0310254431739	1.0
+entecavir	1.0	1.0
+fluperlapine	1.0	1.0
+Dapsone	1.0	1.0
+Anabolic Agents	1.0	0.61477660823
+tenidap	1.0	1.0
+Gonadal Hormones	0.807768600415	0.615751637442
+Mitosis Modulators	0.728524978933	0.489882334783
+Appetite Stimulants	1.0	1.0
+Lipopeptides	1.0	1.0
+Sapogenins	1.0	1.0
+Fedratinib	1.0	1.0
+Anthraquinones	1.0	1.0
+Resorcinols	1.0	1.0
+Fibric Acids	0.239278189055	0.292690107075
+NCS 382	1.0	1.0
+Mafenide	1.0	1.0
+Indazoles	1.0	0.61477660823
+Lasalocid	1.0	1.0
+(R)-2-(4'-bromo-biphenyl-4-sulfonyl-amino)-3-methyl-butyric acid	1.0	1.0
+Macromolecular Substances	1.0	1.0
+Diosgenin	1.0	1.0
+irilin A	1.0	1.0
+Cotinine	1.0	1.0
+Rilmenidine	1.0	1.0
+(5,6-dimethoxyindan-2-yl)dipropylamine	1.0	1.0
+Methoxsalen	1.0	1.0
+Artesunate	1.0	1.0
+tangeretin	1.0	1.0
+Nitriles	0.932101348163	0.124091269081
+Harringtonines	1.0	0.158911193028
+DEET	0.0660398020524	1.0
+montelukast	1.0	1.0
+Cosmetics	1.0	1.0
+Azirines	1.0	1.0
+Smoking Cessation Agents	1.0	1.0
+itopride	1.0	1.0
+GR 127935	1.0	1.0
+Amino Acids	0.510470271669	0.637897693371
+Nefopam	1.0	1.0
+pifithrin	1.0	1.0
+Phenylacetates	1.0	1.0
+ABT-737	1.0	0.0828715527531
+SB 206553	1.0	1.0
+norketamine	1.0	1.0
+N-(4-(3-amino-1H-indazol-4-yl)phenyl)-N1-(2-fluoro-5-methylphenyl)urea	1.0	1.0
+Ryanodine	1.0	1.0
+Toremifene	1.0	1.0
+alosetron	1.0	1.0
+Serotonin 5-HT1 Receptor Agonists	0.18540579343	1.0
+Metolazone	1.0	1.0
+Everolimus	1.0	1.0
+ethyl 2-amino-6-bromo-4-(1-cyano-2-ethoxy-2-oxoethyl)-4H-chromene-3-carboxylate	1.0	0.00351333902871
+3-(1,2,5,6-tetrahydropyrid-4-yl)pyrrolo(3,2-b)pyrid-5-one	1.0	1.0
+cinchonine	1.0	1.0
+Glycolates	0.336637293046	1.0
+Polycyclic Sesquiterpenes	1.0	1.0
+Cytosine	1.0	1.0
+Indolizines	0.763510251603	0.273466142934
+Amino Acids, Essential	1.0	0.500054132163
+GTP 14564	1.0	1.0
+Azides	1.0	1.0
+Benzoxazines	1.0	1.0
+Daunorubicin	1.0	1.0
+Poisons	1.0	0.152780436102
+Chloramphenicol	1.0	1.0
+Taxoids	1.0	1.0
+Naphthalimides	1.0	1.0
+Bile Acids and Salts	1.0	0.541641981282
+Dicarboxylic Acids	0.0639687382906	1.0
+Flurandrenolone	1.0	1.0
+BAY36-7620	1.0	1.0
+HC toxin	0.0660398020524	1.0
+Naltrexone	1.0	1.0
+Anti-Anxiety Agents	0.57158732198	0.698352407186
+Tropisetron	1.0	1.0
+epicatechin gallate	1.0	1.0
+zacopride	1.0	0.00351333902871
+Pantoprazole	1.0	1.0
+Triprolidine	1.0	1.0
+Chemical Actions and Uses	1.0	1.0
+Proline	1.0	0.158911193028
+Thiabendazole	0.0660398020524	1.0
+Solifenacin Succinate	1.0	0.0828715527531
+daidzein	1.0	1.0
+pepstatin	1.0	1.0
+Fluoxetine	1.0	1.0
+Morpholines	0.510470271669	0.367391045541
+Dehydroepiandrosterone	1.0	1.0
+Ouabain	1.0	1.0
+Parasympatholytics	0.443991974662	0.852372388377
+Semicarbazones	1.0	1.0
+2-methyl-3,5,7,8-tetrahydrothiopyrano(4,3-d)pyrimidine-4-one	1.0	1.0
+pomaglumetad methionil	1.0	1.0
+Praziquantel	1.0	1.0
+dipivefrin	1.0	1.0
+Aristolochic Acids	1.0	1.0
+Clotrimazole	0.0660398020524	1.0
+Amiloride	1.0	1.0
+Paclitaxel	1.0	1.0
+Lactams, Macrocyclic	1.0	1.0
+Methacrylates	1.0	1.0
+Meropenem	1.0	1.0
+Losartan	1.0	1.0
+Solvents	0.820609889891	0.367391045541
+Cytokinins	1.0	0.158911193028
+pyrazolanthrone	1.0	1.0
+Anti-Asthmatic Agents	0.92720567354	0.963758794902
+Benzoxazoles	1.0	0.158911193028
+Estriol	1.0	1.0
+tyrphostin B44	1.0	1.0
+dibenzepin	1.0	1.0
+ciglitazone	1.0	1.0
+ibudilast	1.0	1.0
+6-chrysenamine	1.0	1.0
+Cyclic N-Oxides	1.0	1.0
+Phosphorus Compounds	1.0	0.351416515016
+vanoxerine	1.0	1.0
+Cytochalasin D	1.0	1.0
+zosuquidar trihydrochloride	0.0660398020524	1.0
+Cytochalasin B	1.0	1.0
+Tranylcypromine	1.0	1.0
+Lithocholic Acid	1.0	1.0
+Megestrol Acetate	1.0	1.0
+Oxaprozin	1.0	1.0
+Spirostans	1.0	1.0
+diflorasone	1.0	1.0
+Matrix Metalloproteinase Inhibitors	1.0	1.0
+isoxicam	1.0	1.0
+Dansyl Compounds	1.0	1.0
+1,2,3,4,5,6-hexabromocyclohexane	1.0	1.0
+retrorsine	1.0	0.0828715527531
+N-(2-(3-(piperazin-1-ylmethyl)imidazo(2,1-b)thiazol-6-yl)phenyl)quinoxaline-2-carboxamide	1.0	1.0
+Hydrazones	1.0	1.0
+GW 3965	1.0	1.0
+Viral Fusion Protein Inhibitors	1.0	1.0
+STO 609	1.0	1.0
+Vitamin K 3	1.0	1.0
+Vitamin K 1	1.0	1.0
+Epirizole	1.0	1.0
+N-(3,5-bis(trifluoromethyl)phenyl)-5-chloro-2-hydroxybenzamide	1.0	1.0
+OSI 027	1.0	1.0
+Polycyclic Aromatic Hydrocarbons	1.0	1.0
+Acetonitriles	1.0	1.0
+vesamicol	1.0	1.0
+Histamine Agents	1.0	0.915534941979
+Chlordiazepoxide	1.0	1.0
+Pinacidil	1.0	1.0
+parbendazole	1.0	1.0
+Propanolamines	0.627035688014	1.0
+Fluocinonide	1.0	1.0
+5-(2,4-dihydroxy-5-isopropylphenyl)-4-(4-morpholin-4-ylmethylphenyl)isoxazole-3-carboxylic acid ethylamide	1.0	1.0
+Chlormadinone Acetate	1.0	1.0
+Primaquine	1.0	1.0
+Antimetabolites	0.0822528465299	0.735150485824
+Acid Sensing Ion Channel Blockers	1.0	1.0
+calyculin A	1.0	1.0
+Adjuvants, Pharmaceutic	1.0	1.0
+tubastatin A	1.0	1.0
+Propiophenones	0.42161425154	1.0
+2',5'-dideoxyadenosine	1.0	1.0
+Cyclohexanes	0.318094395542	0.459198182779
+Abortifacient Agents	1.0	1.0
+Temozolomide	1.0	1.0
+4'-amino-6-hydroxyflavone	1.0	1.0
+Cloxacillin	1.0	1.0
+Sulindac	0.0660398020524	0.0828715527531
+Phenoxybenzamine	1.0	1.0
+Ticlopidine	1.0	1.0
+Phenolphthalein	1.0	1.0
+N-methyl-N-(3-((2-(2-oxo-2,3-dihydro-1H-indol-5-ylamino)-5-trifluoromethyl-pyrimidin-4-ylamino)-methyl)-pyridin-2-yl)-methanesulfonamide	1.0	1.0
+Dipeptides	0.42161425154	0.500054132163
+2,4,6-trimethyl-N-(meta-3-trifluoromethylphenyl)benzenesulfonamide	1.0	1.0
+diphenidol	1.0	1.0
+urapidil	1.0	1.0
+Biological Factors	0.338519292586	0.170641835798
+Zolpidem	0.0660398020524	1.0
+Phenylbutyrates	1.0	1.0
+8-methoxymethyl-3-isobutyl-1-methylxanthine	1.0	1.0
+Capecitabine	1.0	1.0
+Trimethylsilyl Compounds	1.0	1.0
+CI 966	1.0	1.0
+(R)-(N-(3-(4'-fluorophenyl)-3-(4'-phenylphenoxy)propyl))sarcosine	1.0	1.0
+Bridged Bicyclo Compounds	0.239278189055	0.292690107075
+Urological Agents	0.728524978933	0.227434515471
+Rutin	1.0	1.0
+Terbinafine	1.0	1.0
+Betamethasone	1.0	1.0
+GR 103691	1.0	1.0
+Anti-Bacterial Agents	1.0	1.0
+Phentermine	1.0	1.0
+Erythrosine	1.0	1.0
+reserpic acid	1.0	1.0
+fenbufen	1.0	1.0
+Chlortetracycline	1.0	1.0
+Proadifen	1.0	0.0828715527531
+TWS 119	1.0	1.0
+2-chloro-5-nitrobenzanilide	1.0	1.0
+carmoxirole	1.0	1.0
+Dextromethorphan	1.0	1.0
+Histamine H1 Antagonists, Non-Sedating	1.0	0.183281121634
+Oximes	1.0	0.405292396525
+4-(2,3-dihydro-1,4-benzodioxin-6-yl)-2,4-dihydro-5-((5-nitro-2-thiazolyl)thio)-3H-1,2,4-triazol-3-one	1.0	1.0
+norclozapine	1.0	1.0
+Berberine Alkaloids	0.239278189055	1.0
+Pyridones	0.42161425154	0.500054132163
+Ro 25-6981	1.0	1.0
+Methysergide	1.0	1.0
+Purine Nucleosides	0.616942390919	0.703288491251
+Cinnamates	0.56048447513	0.0868470943274
+trichostatin A	1.0	1.0
+Brompheniramine	1.0	1.0
+Ketanserin	1.0	1.0
+Transition Elements	1.0	1.0
+Enkephalins	1.0	1.0
+Glycine Agents	1.0	0.405292396525
+Technology	1.0	1.0
+Nitrogen Compounds	1.0	0.183281121634
+tyrphostin A9	1.0	0.158911193028
+Fertility Agents, Female	1.0	1.0
+2-carboxy-4,6-dichloro-(1H)-indole-3-propanoic acid	1.0	1.0
+Phosphodiesterase 3 Inhibitors	1.0	1.0
+6-amino-N-cyclohexyl-N,3-dimethylthiazolo(3,2-a)benzimidazole-2-carboxamide	1.0	1.0
+Purinergic P2 Receptor Antagonists	1.0	0.228679189538
+Vincamine	1.0	1.0
+tibolone	1.0	1.0
+pirlindole	0.0660398020524	1.0
+GABA Modulators	1.0	0.61477660823
+Triazines	1.0	1.0
+veliparib	1.0	1.0
+N-substituted Glycines	1.0	1.0
+Cytochrome P-450 CYP2B6 Inducers	1.0	1.0
+Bethanechol	1.0	1.0
+17-cyclopropylmethyl-6,7-didehydro-4,5-epoxy-5'-guanidinyl-3,14-dihydroxyindolo(2',3'-6,7)morphinan	1.0	1.0
+Thiadiazoles	1.0	0.228679189538
+binospirone mesylate	1.0	1.0
+Propylamines	0.380570824692	1.0
+Hydrocarbons, Aromatic	1.0	1.0
+Tolazoline	1.0	1.0
+IWR-1 compound	1.0	1.0
+lupanine	1.0	1.0
+Hormone Antagonists	0.865708790675	0.988518549726
+Adenosine A2 Receptor Agonists	1.0	1.0
+Lapatinib	0.0660398020524	1.0
+Methimazole	1.0	1.0
+Chlorobenzoates	1.0	0.292690107075
+Adjuvants, Immunologic	0.173597067471	0.0710763910648
+Mitomycin	1.0	1.0
+Phytosterols	1.0	1.0
+genipin	1.0	1.0
+Haloperidol	0.0660398020524	1.0
+Didanosine	1.0	1.0
+Arabinonucleosides	1.0	1.0
+anpirtoline	1.0	1.0
+Floxacillin	1.0	1.0
+ampiroxicam	1.0	1.0
+Aromatic Amino Acid Decarboxylase Inhibitors	1.0	0.0828715527531
+Oxygen Compounds	1.0	1.0
+4-(1H-imidazol-4-ylmethyl)piperidine	1.0	1.0
+SK and F 81297	1.0	1.0
+Amino Acids, Aromatic	1.0	0.351416515016
+Aminomethyltransferase	1.0	1.0
+Cromolyn Sodium	1.0	1.0
+Free Radicals	1.0	1.0
+Insecticides	1.0	1.0
+Metrizamide	1.0	1.0
+Pituitary Hormone-Releasing Hormones	1.0	0.00351333902871
+mocetinostat	0.0660398020524	1.0
+Dibenzothiazepines	1.0	1.0
+Metyrapone	1.0	1.0
+Ditiocarb	1.0	1.0
+Imatinib Mesylate	1.0	1.0
+Aporphines	1.0	0.0828715527531
+zamifenacin	1.0	1.0
+Verapamil	1.0	1.0
+adavosertib	1.0	0.0828715527531
+butylparaben	1.0	1.0
+Amlodipine	1.0	1.0
+muconomycin A	1.0	0.0828715527531
+Sulfonic Acids	0.289611724754	0.00100610200642
+Carvedilol	1.0	1.0
+Adenosine A3 Receptor Antagonists	1.0	1.0
+Naphthacenes	1.0	0.61477660823
+Hydroquinones	1.0	0.0828715527531
+Natriuretic Agents	1.0	0.838887488566
+cyanopindolol	1.0	1.0
+Phosphoric Monoester Hydrolases	1.0	1.0
+Succinates	1.0	1.0
+Polyamines	1.0	0.0957747872247
+Cephacetrile	1.0	1.0
+Acids	0.642408762608	0.00209496781616
+Phenyl Ethers	0.52923176599	0.61477660823
+Pyrimethamine	1.0	1.0
+Topoisomerase II Inhibitors	1.0	0.750738417856
+Antiparasitic Agents	0.897988436296	0.53371205366
+E 4031	0.0660398020524	1.0
+Dichloroacetic Acid	1.0	1.0
+Histamine H1 Antagonists	1.0	0.76577223144
+2-(6,7-dimethoxyquinazolin-4-yl)-5-(pyridiin-2-yl)-2H-1,2,4-triazol-3-amine	1.0	1.0
+Dexamethasone	1.0	1.0
+RO-28-0450	1.0	1.0
+Voltage-Gated Sodium Channel Blockers	1.0	0.541641981282
+benzothiazide	1.0	1.0
+Neurosteroids	1.0	1.0
+minaprine	1.0	1.0
+Chromones	0.533973309407	0.865151336598
+Cholinergic Agonists	1.0	1.0
+Flavonols	1.0	1.0
+Etilefrine	0.0660398020524	1.0
+lomerizine	1.0	1.0
+2-methoxy-4-amino-5-chlorobenzoic acid 2-(diethylamino)ethyl ester	1.0	1.0
+vicriviroc	1.0	1.0
+Flavonoids	0.639354031115	0.786719276179
+Varenicline	1.0	1.0
+anagrelide	1.0	1.0
+Lansoprazole	1.0	1.0
+Piperidones	1.0	1.0
+Calcium Channel Blockers	0.916338644391	0.956776992921
+PCI 34051	1.0	1.0
+Methandriol	1.0	1.0
+Diketopiperazines	1.0	1.0
+Diphenoxylate	1.0	1.0
+Terfenadine	1.0	1.0
+vinpocetine	1.0	1.0
+sonidegib	1.0	1.0
+6-bromoindirubin-3'-oxime	1.0	1.0
+Acids, Carbocyclic	1.0	1.0
+Fluorescent Dyes	0.018237592574	1.0
+remacemide	1.0	1.0
+7,8-dihydrobiopterin	0.0660398020524	1.0
+4-Hydroxycoumarins	0.0660398020524	1.0
+Dihydroxyphenylalanine	1.0	0.0828715527531
+Acetophenones	1.0	1.0
+fostamatinib	1.0	0.0828715527531
+Acepromazine	1.0	1.0
+Kynuramine	1.0	1.0
+Ofloxacin	1.0	1.0
+Adrenergic Agents	1.0	1.0
+Antiemetics	0.863997903826	0.00400976503252
+Polysaccharides	1.0	1.0
+Phthalazines	1.0	0.292690107075
+Vincristine	1.0	1.0
+Norgestrel	1.0	1.0
+benzanthrone	1.0	1.0
+Atovaquone	1.0	0.0828715527531
+BP 897	1.0	0.0828715527531
+Technology and Food and Beverages Category	0.129863013771	0.852704017507
+Flutamide	1.0	1.0
+cilnidipine	1.0	1.0
+Boron Compounds	1.0	0.158911193028
+GABA-B Receptor Agonists	1.0	1.0
+Uncoupling Agents	1.0	1.0
+ZK 93423	0.0660398020524	1.0
+thioperamide	1.0	1.0
+ZK 93426	1.0	1.0
+Amsacrine	1.0	1.0
+Anti-Arrhythmia Agents	0.716466479393	0.848336071862
+Tetrahydronaphthalenes	0.336637293046	1.0
+Busulfan	1.0	0.0828715527531
+Staurosporine	1.0	1.0
+Colchicine	1.0	1.0
+Heterocyclic Compounds, 1-Ring	1.0	1.0
+Purinergic P2Y Receptor Antagonists	1.0	1.0
+Immunologic Factors	0.2326553146	0.202769778909
+Ergot Alkaloids	1.0	0.141665315349
+Pefloxacin	1.0	1.0
+Androstadienes	0.336637293046	1.0
+Linolenic Acids	1.0	1.0
+Coagulants	1.0	1.0
+8-(5-(5-amino-2,4-dimethoxyphenyl)-5-oxopentyl)-1,3,8-triazaspiro(4.5)decane-2,4-dione	1.0	1.0
+FPL 64176	1.0	1.0
+Amines	1.0	1.0
+Clofarabine	1.0	1.0
+Nootropic Agents	1.0	0.454716282469
+Dydrogesterone	1.0	1.0
+Lovastatin	1.0	1.0
+Quetiapine Fumarate	1.0	1.0
+cobaltous chloride	1.0	1.0
+Vinca Alkaloids	0.380570824692	1.0
+heraclenol	1.0	1.0
+4-chlorophenol	1.0	1.0
+Indoprofen	1.0	0.0828715527531
+Oxacillin	1.0	1.0
+benidipine	1.0	1.0
+Adrenergic beta-Agonists	0.323543131998	0.771551817207
+Taurocholic Acid	1.0	0.158911193028
+Progestins	0.0639687382906	1.0
+picotamide	1.0	1.0
+Tetrazoles	0.459956407841	1.0
+rifapentine	1.0	1.0
+1,3-benzothiazol-2-yl(2-((2-(3-pyridinyl)ethyl)amino)-4-pyrimidinyl)acetonitrile	1.0	1.0
+Griseofulvin	1.0	1.0
+Benzylidene Compounds	1.0	0.524243351277
+Purinergic P1 Receptor Agonists	0.459956407841	1.0
+Dichlorphenamide	1.0	1.0
+Veratridine	1.0	1.0
+Antiprotozoal Agents	1.0	0.202769778909
+Rimantadine	0.0660398020524	1.0
+Hydrolases	1.0	1.0
+Marine Toxins	1.0	1.0
+carboprostacyclin	1.0	1.0
+nimetazepam	1.0	1.0
+Pargyline	1.0	1.0
+Imino Sugars	1.0	1.0
+Xylazine	1.0	1.0
+Gonadotropin-Releasing Hormone	1.0	0.00351333902871
+Fenbendazole	1.0	1.0
+Dexrazoxane	1.0	1.0
+Flavoring Agents	1.0	1.0
+wiskostatin	1.0	1.0
+purmorphamine	1.0	1.0
+Estrogen Antagonists	1.0	1.0
+Eicosapentaenoic Acid	1.0	1.0
+Yohimbine	1.0	0.123459112845
+Cycloparaffins	0.446093810861	0.630145983626
+Selective Estrogen Receptor Modulators	1.0	1.0
+Metoprolol	1.0	1.0
+Bisacodyl	1.0	1.0
+Hexoses	1.0	1.0
+Chenodeoxycholic Acid	1.0	1.0
+Etodolac	1.0	1.0
+Tenofovir	1.0	1.0
+Cinacalcet	1.0	1.0
+tribenoside	1.0	1.0
+Mesalamine	1.0	1.0
+bromfenac	0.0660398020524	1.0
+Imidazolines	1.0	0.292690107075
+hydroquinidine	1.0	1.0
+Amides	1.0	1.0
+Topiramate	1.0	1.0
+Ephedrine	1.0	1.0
+N-hydroxy-7-(2-naphthylthio)heptanamide	1.0	1.0
+oxybenzone	1.0	1.0
+buflomedil	1.0	1.0
+Contrast Media	1.0	1.0
+4-(4-fluorophenyl)-2-(4-hydroxyphenyl)-5-(4-pyridyl)imidazole	1.0	1.0
+fexofenadine	1.0	1.0
+Secosteroids	0.0463999753469	1.0
+Atracurium	1.0	1.0
+oxiconazole	1.0	1.0
+CGS 12066B	1.0	1.0
+Molsidomine	1.0	1.0
+Mirtazapine	1.0	1.0
+Flecainide	1.0	1.0
+Adenine Nucleotides	1.0	1.0
+isoliquiritigenin	1.0	1.0
+Biomedical and Dental Materials	1.0	1.0
+Potassium Channel Blockers	1.0	1.0
+Flumethasone	1.0	1.0
+Phorbols	1.0	1.0
+omega-N-Methylarginine	1.0	1.0
+Acitretin	1.0	0.0828715527531
+Benzothiadiazines	1.0	0.351416515016
+Aminosalicylic Acids	1.0	1.0
+Serotonin Antagonists	1.0	0.282368033414
+Nitroimidazoles	1.0	0.292690107075
+Dicyclomine	1.0	1.0
+L 701324	1.0	1.0
+lestaurtinib	1.0	1.0
+Serine Proteinase Inhibitors	1.0	0.292690107075
+Tetracyclines	1.0	0.405292396525
+Sulfanilamides	1.0	1.0
+Butadienes	1.0	1.0
+fananserin	1.0	1.0
+L 168049	1.0	1.0
+Felodipine	1.0	1.0
+morpholineoethylamino-3-benzocyclohepta(5,6-c)pyridazine	1.0	1.0
+psoromic acid	1.0	1.0
+Carbamates	0.348367390197	0.461799420336
+Anthelmintics	0.420752766215	0.273466142934
+prostratin	1.0	1.0
+Protein Synthesis Inhibitors	0.372887314925	0.227434515471
+Loteprednol Etabonate	1.0	1.0
+Sulfides	1.0	0.292690107075
+Opioid Peptides	1.0	1.0
+4-(3-(2-propyl-3-hydroxy-4-acetyl)phenoxy)propyloxyphenoxy acetic acid	0.0660398020524	1.0
+Linezolid	0.0660398020524	1.0
+nornicotine	1.0	1.0
+Thiouracil	0.0660398020524	1.0
+Fenretinide	1.0	1.0
+Ketorolac	1.0	1.0
+homatropine	1.0	1.0
+securinine	1.0	0.0828715527531
+Scopolamine Derivatives	1.0	1.0
+Oxazoles	0.141616988777	0.808134848307
+Molecular Mechanisms of Pharmacological Action	1.0	1.0
+Cytochrome P-450 CYP2B6 Inhibitors	1.0	1.0
+Strophanthidin	1.0	1.0
+Imidazolidines	1.0	1.0
+alaproclate	1.0	1.0
+Erythromycin	1.0	1.0
+Antifibrinolytic Agents	1.0	1.0
+9-chloro-2-(2-furyl)-5-phenylacetylamino(1,2,4)triazolo(1,5-c)quinazoline	1.0	1.0
+Growth Substances	0.00819990130394	0.461799420336
+2,3-bis(2-hydroxyethylsulfanyl)-(1,4)naphthoquinone	1.0	1.0
+Aminobenzoates	0.323543131998	0.771551817207
+Glycine	1.0	1.0
+linoleamide	1.0	1.0
+RG 14620	1.0	1.0
+honokiol	1.0	1.0
+Endocannabinoids	1.0	0.228679189538
+halometasone	1.0	1.0
+Mibefradil	1.0	1.0
+4(2'-aminoethyl)amino-1,8-dimethylimidazo(1,2-a)quinoxaline	0.00221459678457	1.0
+N-(3-(2-dimethylamino)ethoxy-4-methoxyphenyl)-2'-methyl-4'-(5-methyl-1,2,4-oxadiazol-3-yl)-(1,1'-biphenyl)-4-carboxamide	1.0	1.0
+tizanidine	1.0	1.0
+Pyrazinamide	1.0	1.0
+Methylurea Compounds	0.0660398020524	1.0
+Depsides	1.0	0.0828715527531
+isoquercitrin	1.0	1.0
+Dioxanes	1.0	0.0475172047509
+Tocainide	1.0	1.0
+mocimycin	1.0	0.0828715527531
+cilostamide	1.0	1.0
+butein	1.0	1.0
+Physostigmine	1.0	1.0
+Adrenergic beta-1 Receptor Antagonists	1.0	1.0
+Ribonucleotides	1.0	1.0
+Adrenergic alpha-2 Receptor Antagonists	1.0	0.183281121634
+Hematinics	1.0	1.0
+Allyl Compounds	0.0660398020524	1.0
+Disulfides	1.0	1.0
+MDL 72832	1.0	1.0
+1-(carboxymethylthio)tetradecane	1.0	1.0
+marmesin	0.0660398020524	1.0
+Edaravone	1.0	1.0
+Ketoprofen	1.0	1.0
+Hallucinogens	1.0	1.0
+Nucleic Acids, Nucleotides, and Nucleosides	0.644250286177	0.300440255131
+(2'-(4-aminophenyl)-(2,5'-bi-1H-benzimidazol)-5-amine)	1.0	1.0
+Farnesol	1.0	0.0828715527531
+Peptides	0.551836834032	0.206914903902
+FR 139317	1.0	1.0
+Rivaroxaban	1.0	1.0
+Genistein	1.0	1.0
+Plant Growth Regulators	0.49577387394	0.579788375668
+Amino Acids, Peptides, and Proteins	0.400317086985	0.223335968626
+Vinorelbine	1.0	1.0
+lobelanidine	1.0	1.0
+raltitrexed	1.0	1.0
+8,9-dichloro-2,3,4,4a-tetrahydro-1H-pyrazino(1,2-a)quinoxalin-5(6H)-one	1.0	1.0
+Diphosphonates	1.0	1.0
+Terbutaline	1.0	1.0
+Pipecolic Acids	1.0	1.0
+olvanil	1.0	1.0
+Dopamine	1.0	1.0
+PF-543	1.0	1.0
+Pyrimidines	1.0	1.0
+idebenone	1.0	1.0
+N-(4-amino-2-methylquinolin-6-yl)-2-(4-ethylphenoxymethyl)benzamide	1.0	1.0
+Ethers, Cyclic	0.289611724754	1.0
+Membrane Lipids	0.104315311092	1.0
+Pyrvinium Compounds	1.0	1.0
+Selegiline	1.0	1.0
+Hydrocarbons, Alicyclic	0.446093810861	0.630145983626
+caffeic acid	1.0	1.0
+2-amino-4-(4'-hydroxyphenyl)-1,1,3-tricyanobuta-1,3-diene	1.0	1.0
+Benzyl Compounds	1.0	0.403080857025
+Steroids, Heterocyclic	1.0	1.0
+Triazoles	1.0	1.0
+(2-chloro-5-pyridyl)-9-azabicyclo(4.2.1)non-2-ene	1.0	1.0
+Metergoline	1.0	1.0
+Y 27632	1.0	1.0
+Moxifloxacin	1.0	0.0828715527531
+tricyclodecane-9-yl-xanthogenate	0.0660398020524	0.0828715527531
+Fluorouracil	1.0	1.0
+alpha-(4-fluorophenyl)-4-(5-fluoro-2-pyrimidinyl)-1-piperazine butanol	1.0	1.0
+PD 198306	1.0	1.0
+Adenine	1.0	0.405292396525
+W 12	1.0	1.0
+RU 28318	1.0	1.0
+Biotin	1.0	1.0
+Purinones	1.0	0.703288491251
+Triclosan	1.0	1.0
+orantinib	1.0	1.0
+Purine Nucleotides	1.0	1.0
+Probucol	1.0	1.0
+Fenofibrate	1.0	1.0
+Surface-Active Agents	1.0	0.351416515016
+Naphthoquinones	1.0	0.454716282469
+Polyketides	1.0	0.790636341527
+Clopenthixol	1.0	1.0
+Antitrichomonal Agents	1.0	1.0
+benoxinate	0.0660398020524	1.0
+SSR 69071	1.0	1.0
+acetohydroxamic acid	1.0	1.0
+5-(dimethylamino)-N-(3,4-dimethyl-5-isoxazolyl)-1-naphthalenesulfonamide	1.0	1.0
+Cetirizine	1.0	0.158911193028
+ZM39923	1.0	0.0828715527531
+Mefenamic Acid	1.0	1.0
+Tamoxifen	1.0	1.0
+Dibenzazepines	1.0	0.676297663556
+Testosterone Congeners	1.0	0.500054132163
+Metals	1.0	1.0
+Thiostrepton	1.0	1.0
+Xanthenes	1.0	1.0
+Phenylephrine	0.0660398020524	1.0
+Caproates	0.018237592574	1.0
+Peptoids	1.0	1.0
+Dosage Forms	1.0	1.0
+Leupeptins	1.0	0.0828715527531
+Wortmannin	1.0	1.0
+Dideoxynucleosides	1.0	0.405292396525
+Nucleic Acid Synthesis Inhibitors	0.854242372472	0.43668911001
+alfuzosin	1.0	1.0
+bergenin	1.0	1.0
+ML 7	1.0	1.0
+5233705 compound	1.0	1.0
+Ellipticines	1.0	1.0
+Sympathomimetics	0.443991974662	1.0
+GABA-A Receptor Agonists	0.0660398020524	1.0
+Retinoids	0.14966310099	0.0567558792579
+Acetanilides	1.0	0.500054132163
+Muscarinic Antagonists	0.372887314925	0.227434515471
+Quinuclidines	1.0	0.123459112845
+Diterpenes	0.226285444734	0.615751637442
+Raclopride	1.0	0.0828715527531
+N-(2,3-dihydroxypropyl)-1-((2-fluoro-4-iodophenyl)amino)isonicotinamide	1.0	1.0
+entinostat	0.0660398020524	1.0
+Cholecalciferol	0.239278189055	1.0
+eticlopride	1.0	1.0
+apigetrin	1.0	1.0
+RS 504393	1.0	1.0
+Cardanolides	1.0	0.676297663556
+danoprevir	1.0	1.0
+Cephalosporins	1.0	1.0
+Therapeutic Uses	1.0	1.0
+Dibenzocycloheptenes	0.0833792134624	1.0
+Azasteroids	1.0	1.0
+Fluorocarbons	0.0660398020524	1.0
+Ions	1.0	0.541641981282
+Thiazoles	0.749997696196	0.872931780807
+Nateglinide	1.0	1.0
+Benzocycloheptenes	0.104315311092	1.0
+Mydriatics	0.58967635933	0.103952639531
+Expectorants	1.0	1.0
+Phytol	1.0	1.0
+Mesoridazine	1.0	1.0
+Toxic Actions	1.0	1.0
+Dopamine D2 Receptor Antagonists	1.0	1.0
+Acetylcholine	1.0	1.0
+Heterocyclic Compounds, Fused-Ring	1.0	1.0
+Nucleosides	0.609188354119	0.262161299172
+Contraceptives, Postcoital, Synthetic	1.0	1.0
+Steroids	1.0	1.0
+Cinanserin	1.0	1.0
+Sertraline	0.0660398020524	1.0
+Perhexiline	1.0	1.0
+Belladonna Alkaloids	1.0	1.0
+Deoxycholic Acid	1.0	1.0
+Aurothioglucose	1.0	1.0
+belinostat	1.0	1.0
+Estrogens	0.666193454659	0.403080857025
+Sesquiterpenes	1.0	0.24630205958
+Antidepressive Agents, Second-Generation	0.642408762608	0.728040498886
+Estradiol Congeners	0.58967635933	0.676297663556
+Dextrorphan	1.0	1.0
+Practolol	1.0	1.0
+Diterpenes, Clerodane	1.0	1.0
+Azocines	1.0	1.0
+Zonisamide	1.0	1.0
+epigallocatechin gallate	1.0	1.0
+quinethazone	1.0	1.0
+Chlorpromazine	1.0	1.0
+Oxepins	1.0	1.0
+tenoxicam	1.0	1.0
+Streptozocin	1.0	1.0
+Ornidazole	1.0	1.0
+Ethanol	0.763510251603	0.543221231237
+Phenolphthaleins	1.0	1.0
+Coloring Agents	0.0125983711428	1.0
+bifonazole	1.0	1.0
+Heterocyclic Oxides	1.0	1.0
+Vasoconstrictor Agents	0.0831704810479	1.0
+calmidazolium	1.0	1.0
+Chlorpheniramine	1.0	1.0
+dactolisib	1.0	1.0
+Anti-Dyskinesia Agents	0.141616988777	0.489882334783
+Fluoroquinolones	1.0	0.183281121634
+CL82198	1.0	1.0
+Nicotinic Acids	0.42161425154	0.500054132163
+Diamines	1.0	0.0957747872247
+(1-piperidinyl)ethyl 1H-indole-3-carboxylate	1.0	0.0828715527531
+iloperidone	1.0	0.0828715527531
+Anticholesteremic Agents	0.0603098225507	0.676297663556
+Mometasone Furoate	1.0	1.0
+Anti-Allergic Agents	1.0	0.750251694752
+LAQ824	1.0	1.0
+Oligomycins	1.0	1.0
+Leflunomide	1.0	1.0
+Veratrum Alkaloids	1.0	1.0
+Diflunisal	1.0	1.0
+3-(4-methylphenylsulfonyl)-2-propenenitrile	1.0	1.0
+toltrazuril	1.0	1.0
+Rabeprazole	1.0	1.0
+Cefotaxime	1.0	1.0
+Alkenes	0.0737748786061	0.320377836887
+Fatty Acids	0.560264515167	1.0
+Serotonin and Noradrenaline Reuptake Inhibitors	1.0	1.0
+Ketones	0.103621676585	0.895976351771
+3-(N,N-dimethylsulfonamido)-4-methyl-nitrobenzene	1.0	1.0
+tetrindole	1.0	1.0
+Gases	1.0	0.292690107075
+inermin	1.0	1.0
+deracoxib	1.0	0.0828715527531
+Protease Inhibitors	1.0	0.358870228547
+Acids, Heterocyclic	0.372887314925	0.808134848307
+Ketoconazole	1.0	1.0
+tenovin-1	1.0	1.0
+Pyrazines	0.173597067471	0.24630205958
+Carboxylic Acids	1.0	1.0
+Methapyrilene	1.0	1.0
+Pyrenes	1.0	1.0
+navitoclax	1.0	1.0
+Nicergoline	1.0	1.0
+formestane	1.0	1.0
+Barbiturates	1.0	1.0
+Chromans	1.0	1.0
+benproperine	1.0	0.0828715527531
+Trichothecenes	1.0	0.0828715527531
+Pheniramine	1.0	1.0
+Goserelin	1.0	0.00351333902871
+Toxins, Biological	1.0	0.454716282469
+Polyenes	0.0841938902834	0.141665315349
+Central Nervous System Stimulants	0.616942390919	0.34153828959
+Calcitriol	1.0	1.0
+Heterocyclic Compounds, 2-Ring	1.0	1.0
+Lobeline	1.0	1.0
+sulmazole	0.0660398020524	1.0
+Radiation-Protective Agents	0.0833792134624	0.454716282469
+U 0126	1.0	1.0
+Nitro Compounds	0.58967635933	0.31001134022
+L 741742	1.0	1.0
+Amino Acids, Basic	1.0	1.0
+ergocryptine	1.0	1.0
+Anesthetics	0.273310876488	0.141665315349
+ponalrestat	1.0	1.0
+Quinazolinones	0.239278189055	1.0
+1-((4-fluorobenzoylamino)ethyl)-4-(7-methoxy-1-naphthyl)piperazine hydrochloride	1.0	0.0828715527531
+Cytochrome P-450 CYP3A Inducers	1.0	1.0
+JTE 907	1.0	1.0
+Iodobenzenes	1.0	1.0
+Pyrazolones	0.0310254431739	1.0
+Cyproterone	1.0	1.0
+3-(3-(dimethylamino)propyl)-4-hydroxy-N-(4-(4-pyridinyl)phenyl)benzamide	1.0	1.0
+metylperon	1.0	1.0
+Captopril	1.0	1.0
+Aprepitant	1.0	0.0828715527531
+RG 13022	1.0	1.0
+CGP 12177	1.0	1.0
+U 54494A	1.0	1.0
+altanserin	1.0	1.0
+9-chloro-2-(2-furyl)-(1,2,4)triazolo(1,5-c)quinazolin-5-imine	1.0	1.0
+pyroxamide	0.0660398020524	1.0
+spiramide	1.0	1.0
+tremortin	1.0	1.0
+Adrenergic Antagonists	0.968503843643	0.630145983626
+miglitol	1.0	1.0
+Abietanes	1.0	1.0
+Neurotransmitter Uptake Inhibitors	0.277236566103	0.852704017507
+Nicorandil	1.0	1.0
+Luminescent Agents	0.018237592574	1.0
+7-hydroxyflavone	1.0	0.0828715527531
+Arginine	1.0	1.0
+Electrolytes	1.0	0.541641981282
+valdecoxib	1.0	1.0
+flubendazole	1.0	1.0
+ML 9	1.0	1.0
+Mitomycins	1.0	1.0
+Finasteride	1.0	1.0
+fasudil	1.0	1.0
+Ly-364947	1.0	1.0
+Sesquiterpenes, Guaiane	1.0	1.0
+alpha-cyano-(3,4-dihydroxy)-N-(3-phenylpropyl)cinnamide	1.0	1.0
+4-trans-2-carboxy-5,7-dichloro-4-phenylaminocarbonylamino-1,2,3,4-tetrahydroquinoline	1.0	1.0
+Amino Acids, Neutral	0.239278189055	1.0
+Proteins	1.0	0.0475172047509
+Alkadienes	0.239278189055	1.0
+meta-Aminobenzoates	1.0	1.0
+Bendroflumethiazide	1.0	1.0
+Cannabinoids	1.0	0.158911193028
+RTKI cpd	1.0	1.0
+Penicillins	0.49577387394	0.579788375668
+taxifolin	1.0	1.0
+Homoharringtonine	1.0	0.158911193028
+Antithyroid Agents	0.127747655045	1.0
+11-Hydroxycorticosteroids	1.0	0.454716282469
+3-(4-octadecyl)benzoylacrylic acid	1.0	1.0
+Halcinonide	1.0	1.0
+Testosterone Propionate	1.0	1.0
+Hydrocortisone	1.0	1.0
+Quinacrine	1.0	1.0
+ifenprodil	1.0	1.0
+Propionates	1.0	0.405292396525
+Solutions	1.0	1.0
+Hormones, Hormone Substitutes, and Hormone Antagonists	1.0	1.0
+Benzophenones	0.0833792134624	1.0
+Megestrol	1.0	1.0
+Nitrofurazone	1.0	1.0
+propyl beta-carboline-3-carboxylate	1.0	1.0
+WZ4002	1.0	1.0
+Perphenazine	1.0	1.0
+Warfarin	0.0660398020524	1.0
+Antinematodal Agents	0.52923176599	0.24630205958
+EMD 66684	1.0	1.0
+SU 11652	1.0	1.0
+JZL 184	1.0	1.0
+Prostaglandins F, Synthetic	1.0	1.0
+Pterocarpans	1.0	1.0
+Omeprazole	1.0	0.158911193028
+SCH 442416	1.0	1.0
+Flavins	0.127747655045	1.0
+Metformin	1.0	1.0
+KN 62	1.0	1.0
+ethyl 1-benzyl-3-hydroxy-2(5H)-oxopyrrole-4-carboxylate	1.0	1.0
+Anthracenes	1.0	1.0
+quizartinib	1.0	1.0
+4-nitrocaramiphen	1.0	1.0
+Biperiden	1.0	1.0
+Benzeneacetamides	1.0	1.0
+1-(2 (diphenylmethoxy)ethyl)-4-(3-phenylpropyl)piperazine	1.0	1.0
+Mifepristone	1.0	1.0
+Dopamine Antagonists	0.814876428847	0.748888484816
+2-(4-nitrophenyl)-4-(4-fluorophenyl)-5-(4-pyridinyl)-1H-imidazole	0.0660398020524	1.0
+Acarbose	1.0	1.0
+Y 27152	1.0	0.0828715527531
+Cyclohexanones	1.0	1.0
+Convulsants	0.336637293046	0.405292396525
+Pancuronium	1.0	1.0
+tetrahydrozoline	1.0	1.0
+Pharmaceutical Preparations	1.0	1.0
+2-(2-(4-(4-nitrobenzyloxy)phenyl)ethyl)isothiourea methanesulfonate	1.0	1.0
+tyrphostin AG957	1.0	1.0
+aniracetam	1.0	1.0
+SR 27897	1.0	1.0
+osthol	1.0	0.0828715527531
+Reboxetine	1.0	1.0
+Membrane Transport Modulators	1.0	1.0
+Tetrabenazine	1.0	1.0
+Guaiacol	1.0	1.0
+Ascorbic Acid	1.0	1.0
+Physiological Effects of Drugs	1.0	1.0
+Dopamine Uptake Inhibitors	0.336637293046	1.0
+Organosilicon Compounds	1.0	1.0
+brucine	1.0	1.0
+Acids, Noncarboxylic	0.642408762608	0.00209496781616
+Steroids, Chlorinated	1.0	1.0
+Pituitary Hormone Release Inhibiting Hormones	1.0	1.0
+Cefoxitin	1.0	1.0
+ispinesib	1.0	1.0
+Azo Compounds	0.0660398020524	1.0
+Trisaccharides	1.0	1.0
+Antiparkinson Agents	0.323543131998	0.432841726566
+5-(nonyloxy)tryptamine	1.0	0.0828715527531
+otenzepad	1.0	1.0
+Sulfhydryl Compounds	1.0	1.0
+Chlorambucil	1.0	1.0
+Brimonidine Tartrate	1.0	1.0
+icariin	1.0	1.0
+Organophosphates	1.0	1.0
+SDZ PCO 400	1.0	1.0
+Simvastatin	1.0	1.0
+Anti-Infective Agents	1.0	1.0
+cyclopamine	1.0	1.0
+Limonins	1.0	1.0
+Quinapril	1.0	1.0
+Spermatocidal Agents	1.0	1.0
+Enalapril	1.0	1.0
+Nitrofurans	1.0	1.0
+Coumarins	0.0356709294957	0.205022944939
+Nevirapine	1.0	1.0
+Chloroquinolinols	1.0	1.0
+irsogladine	1.0	1.0
+Indoleacetic Acids	1.0	1.0
+Fatty Alcohols	0.42161425154	0.500054132163
+Narcotic Antagonists	1.0	0.500054132163
+NSC 23766	1.0	1.0
+dironyl	1.0	1.0
+Cytochrome P-450 CYP2C8 Inhibitors	1.0	1.0
+gitoxigenin	1.0	1.0
+nemonapride	1.0	1.0
+RS 67506	1.0	1.0
+Nasal Decongestants	0.0317290598363	1.0
+Deoxyadenosines	0.127747655045	1.0
+Diazoxide	1.0	1.0
+Aripiprazole	1.0	1.0
+Pirenzepine	1.0	1.0
+Glycols	1.0	0.152780436102
+arvanil	1.0	1.0
+Thioxanthenes	1.0	1.0
+ON 01910	1.0	1.0
+Eriochrome Black T	0.0660398020524	1.0
+Heterocyclic Compounds, 3-Ring	1.0	1.0
+tryptoline	1.0	1.0
+Hydrogen Sulfide	1.0	0.292690107075
+Hydrocarbons, Halogenated	0.0974335438945	1.0
+lonidamine	1.0	1.0
+sertaconazole	1.0	1.0
+Aminoacridines	1.0	1.0
+Tranquilizing Agents	1.0	1.0
+liquiritigenin	1.0	1.0
+3-(3-chloro-4-hydroxyphenylamino)-4-(4-nitrophenyl)-1H-pyrrole-2,5-dione	1.0	1.0
+Ketotifen	1.0	1.0
+oxybutynin	0.0660398020524	1.0
+GABA Agonists	0.18540579343	1.0
+Hormones	1.0	1.0
+Doxylamine	1.0	1.0
+Nucleotides	1.0	1.0
+CL 218872	1.0	1.0
+(E)-4-(2-(2-(N-acetyl-N-(4-methoxybenzenesulfonyl)amino)stilbazole)) 1-oxide	1.0	1.0
+Fluphenazine	1.0	1.0
+phenothiazine	1.0	1.0
+piperacetazine	1.0	1.0
+stepholidine	0.0660398020524	1.0
+Propylene Glycols	1.0	1.0
+Antineoplastic Agents, Phytogenic	1.0	0.517036097679
+bosutinib	1.0	1.0
+mead acid	1.0	1.0
+Adjuvants, Anesthesia	1.0	0.0957747872247
+Triamterene	1.0	1.0
+Glucocorticoids	1.0	0.659036474072
+Sildenafil Citrate	1.0	1.0
+Venlafaxine Hydrochloride	1.0	1.0
+Sodium Chloride Symporter Inhibitors	1.0	0.405292396525
+lacidipine	1.0	1.0
+Cardiac Glycosides	1.0	0.676297663556
+trequinsin	1.0	1.0
+Molluscacides	1.0	1.0
+1H-indazol-3-amine	1.0	1.0
+zaprinast	1.0	1.0
+Olanzapine	1.0	0.00351333902871
+Amisulpride	1.0	0.0828715527531
+Analgesics, Opioid	1.0	1.0
+Esters	1.0	0.00351333902871
+Dioxolanes	1.0	1.0
+Amoxapine	1.0	1.0
+Cyclophosphamide	1.0	1.0
+dorsomorphin	1.0	1.0
+Propanols	0.627035688014	1.0
+ecopipam	1.0	1.0
+Triamcinolone Acetonide	1.0	1.0
+mebeverine	1.0	1.0
+Fluocinolone Acetonide	1.0	1.0
+Fibrin Modulating Agents	1.0	1.0
+mevastatin	1.0	1.0
+Cholanes	1.0	0.541641981282
+Sulfoxides	1.0	0.405292396525
+Food and Beverages	0.055823682255	0.926752373324
+Dopamine Agonists	0.843792460117	0.679181878214
+GW 583340	1.0	1.0
+N-(4-aminobutyl)-5-chloro-2-naphthalenesulfonamide	1.0	1.0
+CY 208-243	1.0	1.0
+Linoleic Acids	1.0	1.0
+6-(2-tert-butyl-5-(6-methylpyridin-2-yl)-1H-imidazol-4-yl)quinoxaline	1.0	1.0
+Fluorobenzenes	0.18540579343	1.0
+Sympatholytics	0.459956407841	0.541641981282
+Analgesics, Non-Narcotic	1.0	1.0
+7,4'-dihydroxyflavone	1.0	1.0
+Tolterodine Tartrate	1.0	1.0
+Ambroxol	1.0	1.0
+GR 113808	1.0	1.0
+Chlorophenols	1.0	1.0
+Azoles	1.0	1.0
+ostarine	1.0	1.0
+Tryptamines	0.42161425154	0.152780436102
+phenanthridone	1.0	1.0
+Bimatoprost	1.0	1.0
+sulconazole	1.0	1.0
+Specialty Uses of Chemicals	1.0	1.0
+Lactams	0.863997903826	0.920033762645
+Quinolizines	1.0	1.0
+Cyclohexylamines	1.0	1.0
+Morphinans	1.0	1.0
+Sulfinpyrazone	1.0	1.0
+Ribavirin	1.0	0.0828715527531
+Nitrates	1.0	1.0
+Inosine	1.0	1.0
+Spectinomycin	1.0	1.0
+7-hydroxy-2-(N-n-propyl-N-(3-iodo-2'-propenyl)-amino)tetralin	1.0	1.0
+bisbenzimide ethoxide trihydrochloride	0.00221459678457	1.0
+Quinine	1.0	1.0
+Thiepins	1.0	1.0
+Atorvastatin	1.0	1.0
+Duloxetine Hydrochloride	1.0	1.0
+sappanone A	1.0	1.0
+Salmeterol Xinafoate	1.0	1.0
+ridaforolimus	1.0	1.0
+Neuropeptides	1.0	0.0475172047509
+Docosahexaenoic Acids	1.0	1.0
+Methionine	1.0	1.0
+Epothilones	1.0	0.158911193028
+Triflupromazine	1.0	1.0
+Atropine	1.0	1.0
+ebselen	1.0	1.0
+Peripheral Nervous System Agents	1.0	1.0
+GSK0660	1.0	1.0
+N-(piperidin-1-yl)-1-(2,4-dichlorophenyl)-1,4-dihydro-6-methylindeno(1,2-c)pyrazole-3-carboxamide	1.0	1.0
+Elements	1.0	1.0
+4-(acetylamino)benzeneacetic acid	1.0	1.0
+Tubulin Modulators	0.688406765663	0.432841726566
+Diphenhydramine	1.0	1.0
+Cephalexin	1.0	1.0
+Glycyrrhetinic Acid	1.0	1.0
+Iodipamide	1.0	1.0
+Quinazolines	0.0521153431269	0.966816841867
+2-chloro-3-amino-1,4-naphthoquinone	1.0	1.0
+Proton Pump Inhibitors	1.0	0.351416515016
+Esculin	1.0	1.0
+Diuretics	1.0	0.824178452904
+biochanin A	1.0	1.0
+Cholestenes	0.0833792134624	1.0
+Chloroacetates	1.0	1.0
+Biogenic Amines	0.642408762608	0.372608279608
+Itraconazole	1.0	1.0
+Fluspirilene	1.0	1.0
+Apigenin	1.0	1.0
+ICI 89406	1.0	1.0
+safinamide	1.0	0.0828715527531
+Clofibrate	0.0660398020524	0.0828715527531
+Contraceptives, Postcoital	1.0	1.0
+Trypanocidal Agents	1.0	1.0
+L 670596	1.0	1.0
+dexketoprofen trometamol	1.0	1.0
+Hydrocarbons, Fluorinated	0.0463999753469	1.0
+manumycin	1.0	1.0
+ceforanide	1.0	1.0
+Flavones	1.0	1.0
+pazopanib	1.0	1.0
+cefpodoxime	1.0	1.0
+lomibuvir	1.0	1.0
+tianeptine	1.0	1.0
+Diethylcarbamazine	1.0	1.0
+Cytochrome P-450 CYP3A Inhibitors	1.0	1.0
+Mesylates	1.0	0.0828715527531
+prednisolone acetate	1.0	1.0
+Phenylpropionates	1.0	0.351416515016
+Anticoagulants	0.239278189055	1.0
+parecoxib	1.0	1.0
+Central Nervous System Agents	1.0	1.0
+3-(carbamoylamino)-5-(3-fluorophenyl)-N-(3-piperidyl)thiophene-2-carboxamide	1.0	1.0
+Valacyclovir	1.0	1.0
+Benzopyrenes	1.0	1.0
+ZD 7155	1.0	1.0
+Labetalol	1.0	1.0
+ubenimex	1.0	1.0
+resmethrin	1.0	1.0
+Urea	0.807768600415	0.876066807201
+Lipoglycopeptides	1.0	1.0
+Tyrphostins	1.0	0.227434515471
+2,2'-pyridylisatogen tosylate	1.0	0.0828715527531
+Sitagliptin Phosphate	1.0	1.0
+denbufylline	1.0	1.0
+Rifampin	1.0	1.0
+Riluzole	1.0	1.0
+Sulfones	1.0	1.0
+Emetine	1.0	0.00351333902871
+exemestane	1.0	1.0
+proxyfan	1.0	1.0
+Edrophonium	1.0	1.0
+Indenes	0.336637293046	0.0957747872247
+Bisoprolol	1.0	1.0
+gibberellic acid	0.0660398020524	1.0
+4-(4-(N-benzoylamino)anilino)-6-methoxy-7-(3-(1-morpholino)propoxy)quinazoline	0.0660398020524	1.0
+Cycloheptanes	1.0	1.0
+Nicotinic Antagonists	1.0	1.0
+Indicators and Reagents	0.141616988777	1.0
+Adrenergic beta-2 Receptor Agonists	1.0	1.0
+5-quinoxalin-6-ylmethylenethiazolidine-2,4-dione	1.0	1.0
+abexinostat	0.0660398020524	1.0
+naftopidil	1.0	1.0
+rufloxacin	1.0	1.0
+discretamine	1.0	1.0
+Metoclopramide	1.0	1.0
+Ergosterol	1.0	1.0
+PD 407824	1.0	1.0
+Tolbutamide	1.0	1.0
+Hexanols	1.0	1.0
+Fluvoxamine	1.0	1.0
+Parasympathomimetics	1.0	1.0
+5-(N,N-hexamethylene)amiloride	1.0	0.0828715527531
+3-(4-dimethylaminobenzylidene)anabaseine	1.0	1.0
+anandamide	1.0	1.0
+Hydroxycholecalciferols	0.239278189055	1.0
+Meloxicam	1.0	0.0828715527531
+meclocycline	1.0	1.0
+sinensetin	1.0	0.0828715527531
+L 692585	1.0	1.0
+Temefos	1.0	1.0
+Fatty Acids, Unsaturated	1.0	0.503016602691
+4-amino-5-fluoro-3-(5-(4-methylpiperazin-1-yl)-1H-benzimidazol-2-yl)quinolin-2(1H)-one	1.0	1.0
+GW 7647	1.0	0.0828715527531
+Indans	1.0	0.228679189538
+Triethylenephosphoramide	1.0	1.0
+Midazolam	1.0	1.0
+4,5-dianilinophthalimide	0.00847261721979	1.0
+Pyrrolidines	0.863997903826	0.716570315256
+Esterases	1.0	1.0
+Cyclobutanes	1.0	1.0
+Hymecromone	0.0660398020524	1.0
+2-methyl-4-phenyl-(4-pyridyl)oxazole	1.0	1.0
+Nitrobenzenes	1.0	1.0
+farnesylthioacetic acid	1.0	1.0
+Atropine Derivatives	1.0	1.0
+saracatinib	1.0	1.0
+L 690330	1.0	1.0
+cinalukast	1.0	1.0
+Digitalis Glycosides	1.0	1.0
+Chemotactic Factors	1.0	1.0
+darinaparsin	1.0	1.0
+GABA Antagonists	0.126494150293	1.0
+Hydroxybenzoates	1.0	0.646866774809
+Indapamide	1.0	1.0
+Intercalating Agents	1.0	1.0
+Cholagogues and Choleretics	1.0	0.500054132163
+Phosphodiesterase Inhibitors	0.443991974662	0.296863382247
+Phenylenediamines	1.0	1.0
+Tyramine	1.0	1.0
+Vardenafil Dihydrochloride	1.0	1.0
+N-Formylmethionine	1.0	1.0
+GABA-A Receptor Antagonists	0.0660398020524	1.0
+Histamine Agonists	1.0	1.0
+Dihydrostilbenoids	1.0	1.0
+Butyrates	0.380570824692	0.123459112845
+3-methyl-aminothiophene dicarboxylic acid	1.0	1.0
+Guanfacine	1.0	1.0
+Antioxidants	0.373854190861	0.0221185254685
+Xanthines	1.0	0.500054132163
+Y134 compound	1.0	1.0
+Cephamycins	1.0	1.0
+9H-purine-9-propanamine, 6-amino-8-((6-iodo-1,3-benzodioxol-5-yl)thio)-N-(1-methylethyl)-	1.0	1.0
+Purinergic P1 Receptor Antagonists	1.0	0.454716282469
+Heterocyclic Compounds, Bridged-Ring	0.896948888143	0.0255746175066
+Monoterpenes	1.0	1.0
+1-(2-methoxyphenyl)-4-(4-(2-phthalimido)butyl)piperazine	1.0	1.0
+Benperidol	1.0	1.0
+Valine	1.0	1.0
+bicalutamide	1.0	1.0
+Razoxane	1.0	1.0
+AM 281	1.0	1.0
+Hemostatics	1.0	1.0
+Anticonvulsants	0.932101348163	0.852704017507
+epothilone A	1.0	0.0828715527531
+Solanaceous Alkaloids	1.0	1.0
+Androstenes	0.323543131998	1.0
+QX-314	1.0	1.0
+Phenylbutazone	0.127747655045	1.0
+Chromomycins	1.0	1.0
+lobaric acid	1.0	1.0
+Glutamates	1.0	1.0
+Insulin Antagonists	1.0	1.0
+Benzazepines	0.392292747349	0.0683286827486
+Benz(a)Anthracenes	1.0	0.158911193028
+Cytochrome P-450 CYP2C8 Inducers	1.0	1.0
+Mianserin	1.0	1.0
+motesanib diphosphate	0.0660398020524	1.0
+Probenecid	1.0	1.0
+midostaurin	1.0	1.0
+pirenperone	1.0	1.0
+Multienzyme Complexes	1.0	1.0
+mosapride	1.0	1.0
+FG 7142	0.0660398020524	1.0
+calpain inhibitor III	1.0	1.0
+QX-222	1.0	1.0
+Heterocyclic Compounds, 4 or More Rings	0.932101348163	0.249674408541
+Oxazocines	1.0	1.0
+N-(6-aminohexyl)-1-naphthalenesulfonamide	1.0	0.0828715527531
+Antidepressive Agents, Tricyclic	0.58967635933	0.676297663556
+trimethobenzamide	1.0	1.0
+Diagnostic Uses of Chemicals	1.0	1.0
+bifemelane	1.0	1.0
+Androgen Antagonists	1.0	1.0
+Econazole	1.0	1.0
+3-(4-(4-((1-(2-chlorophenyl)ethoxy)carbonyl amino)-3-methyl-5-isoxazolyl) benzylsulfanyl) propanoic acid	1.0	1.0
+Antineoplastic Agents, Alkylating	1.0	0.405292396525
+Niclosamide	1.0	1.0
+helveticoside	1.0	1.0
+Primidone	1.0	1.0
+Methyldopa	1.0	0.0828715527531
+tacedinaline	1.0	1.0
+gamma-Linolenic Acid	1.0	1.0
+Lorazepam	1.0	1.0
+ixazomib	1.0	0.158911193028
+Iodobenzoates	1.0	1.0
+Adrenergic alpha-Antagonists	1.0	0.243395627033
+Succimer	1.0	1.0
+5-(5,6-dimethoxy-1H-benzimidazol-1-yl)-3-((2-(trifluoromethyl)benzyl)oxy)thiophene-2-carboxamide	1.0	0.0828715527531
+HU 211	1.0	0.0828715527531
+CGS 9343B	1.0	1.0
+etomoxir	1.0	1.0
+Maleimides	0.00847261721979	1.0
+Nutrients	0.0291942231473	0.88645465892
+chelidonine	1.0	1.0
+Antiplatyhelmintic Agents	1.0	0.454716282469
+Antithrombins	1.0	1.0
+Idarubicin	1.0	1.0
+Felbamate	1.0	1.0
+3-(4-(4-chlorophenyl-4-hydroxypiperidino)methyl)indole	1.0	1.0
+Cytochrome P-450 CYP2C19 Inhibitors	1.0	1.0
+MR 16728	1.0	0.0828715527531
+Phthalic Acids	0.0639687382906	1.0
+Estrogens, Non-Steroidal	1.0	0.541641981282
+Ganglionic Stimulants	1.0	1.0
+Nifurtimox	1.0	1.0
+clocortolone pivalate	1.0	1.0
+heliotrine	1.0	0.0828715527531
+Sulfur Acids	0.289611724754	0.00100610200642
+4-(2-((1R)-1-(((4-chlorophenyl)sulfonyl)-2,5-difluoroanilino)ethyl)-5-fluorophenyl)butanoic acid	1.0	1.0
+AG 127	1.0	0.00351333902871
+Phenacetin	1.0	1.0
+Doxazosin	1.0	1.0
+Fish Oils	1.0	1.0
+Diuretics, Potassium Sparing	1.0	1.0
+Guanabenz	1.0	1.0
+proxymetacaine	1.0	1.0
+Cefotiam	1.0	1.0
+Prazosin	1.0	1.0
+Carbohydrates	0.959198296968	1.0
+RO 3306	1.0	1.0
+danthron	1.0	1.0
+Sirolimus	1.0	1.0
+5-chloro-2-methyl-3-(1,2,3,6-tetrahydro-4-pyridinyl)-1H-indole	1.0	1.0
+ethotoin	1.0	1.0
+Investigative Techniques	1.0	1.0
+BD 1008	1.0	1.0
+Cytochrome P-450 Enzyme Inhibitors	0.843792460117	1.0
+Amdinocillin	1.0	1.0
+Contraceptive Agents, Male	1.0	1.0
+Gibberellins	0.0660398020524	1.0
+Epoxy Compounds	0.239278189055	1.0
+Food	0.055823682255	0.926752373324
+SB 205384	1.0	1.0
+Equilin	1.0	1.0
+Transferases	1.0	1.0
+Pancreatic Hormones	1.0	1.0
+Affinity Labels	1.0	1.0
+Radiation-Sensitizing Agents	0.00289332491077	0.703288491251
+Albendazole	1.0	0.0828715527531
+RV 538	1.0	1.0
+6-methyl-2-(phenylethynyl)pyridine	1.0	0.0828715527531
+Cyclodecanes	1.0	1.0
+Dihydroergotamine	1.0	1.0
+Estranes	0.248100180492	0.34153828959
+Norpregnenes	1.0	0.454716282469
+Prednisolone	1.0	0.158911193028
+Chlorprothixene	1.0	1.0
+Monosaccharides	1.0	1.0
+Ethylene Glycols	1.0	1.0
+Remoxipride	1.0	1.0
+Thiothixene	1.0	1.0
+Cytarabine	1.0	1.0
+Aminophenols	1.0	1.0
+Corticosterone	1.0	1.0
+Phenobarbital	1.0	1.0
+3-(2,4-diamino-6-(3-hydroxyphenyl)pteridin-7-yl)phenol	1.0	1.0
+nefazodone	1.0	1.0
+Aminoglycosides	1.0	1.0
+Modafinil	1.0	1.0
+Irbesartan	1.0	1.0
+Puromycin	1.0	1.0
+Dantrolene	1.0	1.0
+Suloctidil	1.0	1.0
+rhamnetin	1.0	1.0
+Cytochrome P-450 CYP2D6 Inhibitors	1.0	1.0
+Saponins	1.0	1.0
+boldine	1.0	0.0828715527531
+racecadotril	1.0	1.0
+Anti-Infective Agents, Local	0.551836834032	0.679181878214
+Pregnatrienes	1.0	0.0828715527531
+Cyclacillin	1.0	0.0828715527531
+Aminopterin	1.0	1.0
+Piroxicam	1.0	1.0
+Cladribine	0.0660398020524	1.0
+aurapten	0.0660398020524	1.0
+marbofloxacin	1.0	1.0
+Corpus Luteum Hormones	1.0	1.0
+Autacoids	1.0	0.489882334783
+Prednisone	1.0	1.0
+Niflumic Acid	0.0660398020524	1.0
+Bicyclic Monoterpenes	1.0	1.0
+diloxanide furoate	1.0	1.0
+Carotenoids	0.14966310099	0.0567558792579
+Phenylcarbamates	1.0	1.0
+cephaelin	1.0	0.0828715527531
+R 59022	0.0660398020524	1.0
+Buspirone	1.0	1.0
+dexbrompheniramine	1.0	1.0
+Quinolinium Compounds	1.0	1.0
+2-(((3-(morpholinylmethyl)-2H-chromen-8-yl)oxy)methyl)morpholine	1.0	1.0
+Quinolones	0.709151809256	0.461799420336
+Serotonin 5-HT2 Receptor Antagonists	1.0	1.0
+Cefuroxime	1.0	1.0
+cercosporin	1.0	0.0828715527531
+Cinnarizine	1.0	1.0
+Benzodioxoles	1.0	1.0
+Benzbromarone	1.0	1.0
+Monoamine Oxidase Inhibitors	0.126494150293	1.0
+Oxcarbazepine	1.0	1.0
+Nitrendipine	1.0	1.0
+Olmesartan Medoxomil	0.0660398020524	1.0
+Oleanolic Acid	1.0	1.0
+2,3,4,10-tetrahydro-7,10-dimethyl-2,4-dioxobenzo(g)pteridine	1.0	1.0
+Delayed-Action Preparations	1.0	1.0
+Lopinavir	1.0	1.0
+Phenazines	1.0	1.0
+zolantidine	1.0	1.0
+Pregnanes	1.0	1.0
+Isradipine	1.0	1.0
+3-(2-cyano-3-(trifluoromethyl)phenoxy)phenyl-4,4,4-trifluoro-1-butanesulfonate	0.0660398020524	1.0
+Pyrroles	0.191147814496	1.0
+hexamethylene bisacetamide	1.0	1.0
+Phosphodiesterase 4 Inhibitors	1.0	1.0
+Quipazine	1.0	1.0
+Triiodothyronine	1.0	1.0
+Imines	1.0	0.351416515016
+carprofen	1.0	0.0828715527531
+betamethasone acetate	1.0	1.0
+5-nitroso-8-quinolinol	1.0	1.0
+Fenoldopam	1.0	1.0
+Iodoacetic Acid	1.0	1.0
+1-(1-(2-benzo(b)thienyl)cyclohexyl)piperidine	1.0	1.0
+Thyroxine	1.0	1.0
+BIX 01294	1.0	1.0
+2-morpholin-4-yl-6-thianthren-1-yl-pyran-4-one	1.0	1.0
+Pravastatin	1.0	1.0
+benzonatate	1.0	1.0
+PD 0325901	1.0	1.0
+GSK1904529A	1.0	0.0828715527531
+alfacalcidol	1.0	1.0
+Deferiprone	1.0	1.0
+Nylidrin	0.0660398020524	1.0
+Tyrosine	1.0	0.0828715527531
+Amino Acids, Diamino	1.0	1.0
+1,6-bis(cyclohexyloximinocarbonyl)hexane	1.0	1.0
+Amitriptyline	1.0	1.0
+Glycopeptides	1.0	1.0
+Abortifacient Agents, Steroidal	1.0	1.0
+6,7-dimethoxy-3-phenylquinoxaline	1.0	1.0
+8,11,14-Eicosatrienoic Acid	1.0	1.0
+Angiotensin II Type 1 Receptor Blockers	0.336637293046	1.0
+Myeloablative Agonists	1.0	0.228679189538
+rimcazole	1.0	1.0
+alphadolone	1.0	1.0
+Sweetening Agents	1.0	1.0
+Thymidine	1.0	0.158911193028
+Neurokinin-1 Receptor Antagonists	1.0	0.0282572466623
+2,3-dimethoxy-6,6-dimethyl-5,6-dihydrobenzo(7,8)indolizino (2,3-b)quinoxaline	1.0	1.0
+Benzyl Alcohols	1.0	1.0
+Dietary Fats	1.0	1.0
+Cinchona Alkaloids	1.0	1.0
+Pyridines	1.0	1.0
+gabazine	1.0	1.0
+Antirheumatic Agents	1.0	1.0
+DuP 697	1.0	1.0
+Adrenergic Agonists	0.481869717209	0.640300989686
+Vitamin D	0.0463999753469	1.0
+Vitamin K	1.0	1.0
+dibenzoylmethane	1.0	1.0
+Adamantane	0.18540579343	1.0
+Tetradecanoylphorbol Acetate	1.0	1.0
+Benzylamines	1.0	0.405292396525
+Antitubercular Agents	0.0317290598363	0.579788375668
+Antipyretics	1.0	1.0
+Rolitetracycline	1.0	1.0
+Immunosuppressive Agents	0.466712243057	0.592589981345
+Irinotecan	1.0	1.0
+Cyclic S-Oxides	1.0	1.0
+1-benzylimidazole	1.0	1.0
+Drug Delivery Systems	1.0	1.0
+N-(2-(4-bromocinnamylamino)ethyl)-5-isoquinolinesulfonamide	0.0660398020524	1.0
+Diclofenac	1.0	1.0
+thioproperazine	1.0	1.0
+Polycyclic Compounds	1.0	1.0
+Anti-Inflammatory Agents, Non-Steroidal	0.285250996849	1.0
+Fulvestrant	1.0	1.0
+Acetates	0.372887314925	0.227434515471
+Parabens	1.0	1.0
+Rodenticides	0.0660398020524	1.0
+Fatty Acids, Omega-6	1.0	1.0
+FTI 276	1.0	1.0
+Fatty Acids, Omega-3	1.0	1.0
+Butanones	1.0	0.158911193028
+Anabasine	1.0	1.0
+Procaterol	1.0	1.0
+Bumetanide	1.0	1.0
+Anastrozole	1.0	1.0
+Fenoterol	1.0	1.0
+Prostaglandins I	1.0	1.0
+fraxiden	1.0	1.0
+Prostaglandins E	1.0	0.158911193028
+Pramipexole	1.0	1.0
+Prostaglandins A	1.0	0.0828715527531
+Prostaglandins B	1.0	1.0
+Dietary Fats, Unsaturated	1.0	1.0
+Cefaclor	1.0	1.0
+SC 560	1.0	1.0
+alverine	1.0	1.0
+Sulfonylurea Compounds	1.0	1.0
+RS 102895	1.0	1.0
+6-(4-chlorophenyl)imidazo(2,1-b)(1,3)thiazole-5-carbaldehyde O-(3,4-dichlorobenzyl)oxime	1.0	0.0828715527531
+ICI D7114	1.0	1.0
+Phenols	0.798806797526	1.0
+amylocaine	1.0	1.0
+Pharmaceutic Aids	1.0	1.0
+Oxotremorine	1.0	1.0
+1-(2-(diphenylmethoxy)ethyl)-4-(3-phenyl-2-propenyl)piperazine	1.0	1.0
+Nicotine	1.0	1.0
+syrosingopine	1.0	1.0
+Gasotransmitters	1.0	0.292690107075
+Filaricides	1.0	1.0
+L 694247	1.0	1.0
+Cilastatin	1.0	1.0
+cediranib	1.0	1.0
+Capsaicin	1.0	1.0
+Adrenergic alpha-Agonists	0.208546363899	0.592589981345
+Pentobarbital	1.0	1.0
+Hypothalamic Hormones	1.0	0.013282437468
+Noxae	1.0	1.0
+selinidin	1.0	1.0
+Cobalt	1.0	1.0
+SB 203580	1.0	1.0
+GR 89696	1.0	1.0
+alpha-cyano-(3,4-dihydroxy)-N-benzylcinnamide	1.0	1.0
+Ibuprofen	1.0	1.0
+Naphazoline	1.0	1.0
+dioxybenzone	1.0	1.0
+Trifluoperazine	1.0	1.0
+Torsemide	1.0	1.0
+Phosphorus Acids	1.0	0.351416515016
+Amino Acids, Dicarboxylic	1.0	1.0
+3,3'-diindolylmethane	1.0	0.00351333902871
+Ioxaglic Acid	1.0	1.0
+Isoxazoles	0.248100180492	0.703288491251
+zileuton	1.0	1.0
+geldanamycin	1.0	1.0
+mofezolac	0.0660398020524	1.0
+Thiethylperazine	1.0	1.0
+GW9508	1.0	1.0
+Tetrahydroisoquinolines	1.0	0.123459112845
+pidotimod	1.0	1.0
+Antimanic Agents	1.0	1.0
+Household Products	1.0	0.454716282469
+mestanolone	1.0	1.0
+GSK 461364	1.0	1.0
+brinzolamide	1.0	0.0828715527531
+Butylene Glycols	1.0	0.013282437468
+N-methylquipazine	1.0	1.0
+moxonidine	1.0	0.0828715527531
+amlexanox	1.0	1.0
+PLX 4720	1.0	1.0
+indirubin	1.0	1.0
+Cardiotonic Agents	0.208546363899	0.320377836887
+Naphthalenes	0.410596907078	0.794326354894
+SB 258585	1.0	1.0
+Angiotensin-Converting Enzyme Inhibitors	1.0	0.541641981282
+dexchlorpheniramine	1.0	1.0
+alvocidib	1.0	1.0
+Ethylenediamines	1.0	0.0702571717711
+Solanine	1.0	1.0
+Riboflavin	0.0660398020524	1.0
+Oxidants	1.0	1.0
+diphenyleneiodonium	1.0	1.0
+Dioxins	1.0	1.0
+Kinetin	1.0	0.158911193028
+Azetines	1.0	1.0
+Dihydropyridines	1.0	1.0
+Hypoglycemic Agents	0.820609889891	0.88645465892
+Trazodone	0.0660398020524	1.0
+Amaryllidaceae Alkaloids	1.0	1.0
+3-(5'-hydroxymethyl-2'-furyl)-1-benzylindazole	1.0	1.0
+Pregnadienediols	1.0	1.0
+Anti-HIV Agents	0.666193454659	0.750738417856
+Alkanes	0.336637293046	0.00195169262727
+Muscarinic Agonists	1.0	1.0
+Tropanes	0.336637293046	0.405292396525
+Nafronyl	1.0	1.0
+Levetiracetam	1.0	0.0828715527531
+hydrocortisone valerate	1.0	0.158911193028
+Thiazolidines	1.0	1.0
+Autonomic Agents	1.0	1.0
+ergocornine	1.0	0.0828715527531
+Zoxazolamine	1.0	1.0
+Budesonide	1.0	1.0
+Benzofurans	0.58967635933	1.0
+Tetracycline	1.0	1.0
+Danazol	1.0	1.0
+Spiro Compounds	1.0	1.0
+Protective Agents	1.0	1.0
+Mefloquine	1.0	1.0
+necrostatin-1	1.0	1.0
+Pyridinium Compounds	1.0	1.0
+Raltegravir Potassium	0.0660398020524	1.0
+Fatty Acids, Volatile	0.110652012988	0.0430627513234
+Neurotoxins	1.0	1.0
+Mandelic Acids	0.0660398020524	1.0
+Tolmetin	1.0	1.0
+Sodium Channel Agonists	1.0	1.0
+Reactive Oxygen Species	1.0	1.0
+Benzo(a)pyrene	1.0	1.0
+Thenoyltrifluoroacetone	1.0	0.0828715527531
+Cycloserine	0.0660398020524	1.0
+Metals, Heavy	1.0	1.0
+Taurodeoxycholic Acid	1.0	1.0
+Anti-Retroviral Agents	0.666193454659	0.750738417856
+Calcium-Regulating Hormones and Agents	0.58047880674	0.97865948096
+VUF 6002	1.0	1.0
+Resveratrol	1.0	1.0
+Adrenergic alpha-2 Receptor Agonists	1.0	0.214567408347
+altrenogest	0.0660398020524	1.0
+lavendustin A	1.0	1.0
+Imino Acids	1.0	0.292690107075
+Anisomycin	1.0	1.0
+Dioxins and Dioxin-like Compounds	1.0	1.0
+Thiazolidinediones	1.0	1.0
+tetrahydropalmatine	1.0	1.0
+ZK 164015	1.0	1.0
+telenzepine	1.0	1.0
+NS3694	1.0	1.0
+Nocodazole	1.0	1.0
+VER 155008	1.0	0.0828715527531
+Buffers	1.0	1.0
+SB 239063	1.0	1.0
+Phenomena and Processes Category	0.055823682255	0.926752373324
+Acetamides	0.380570824692	0.123459112845
+L 755507	1.0	1.0
+Digoxin	1.0	1.0
+2-(4-morpholinoanilino)-6-cyclohexylaminopurine	1.0	0.0828715527531
+Triclabendazole	1.0	1.0
+Epitestosterone	1.0	1.0
+periplocymarin	1.0	0.0828715527531
+Micronutrients	0.0291942231473	0.88645465892
+sulforaphane	1.0	1.0
+Mast Cell Stabilizers	1.0	1.0
+rofecoxib	1.0	1.0
+levocetirizine	1.0	0.0828715527531
+Pteridines	0.104315311092	1.0
+Cytidine	0.380570824692	1.0
+estradiol 17 beta-cypionate	1.0	1.0
+Isonicotinic Acids	0.18540579343	1.0
+obatoclax	1.0	1.0
+Papaverine	1.0	1.0
+1,2-bis(2-aminophenoxy)ethane N,N,N',N'-tetraacetic acid acetoxymethyl ester	1.0	1.0
+16,16-Dimethylprostaglandin E2	1.0	1.0
+VX 702	1.0	1.0
+Antitussive Agents	1.0	1.0
+hyperoside	1.0	1.0
+Methantheline	1.0	1.0
+Stilbenes	1.0	1.0
+Contraceptive Agents, Female	0.709151809256	0.790636341527
+bemesetron	1.0	0.0828715527531
+Explosive Agents	1.0	1.0
+Norpregnadienes	1.0	1.0
+crotamiton	1.0	0.0828715527531
+Amino Acids, Acidic	1.0	1.0
+Sugars	1.0	1.0
+Lypressin	1.0	1.0
+E 7010	1.0	1.0
+Thiones	1.0	1.0
+indirubin-3'-monoxime	1.0	1.0
+Trimebutine	1.0	1.0
+imperatorin	1.0	1.0
+Propofol	1.0	1.0
+N-phenyl-7-(hydroxyimino)cyclopropa(b)chromen-1a-carboxamide	1.0	1.0
+Reserpine	1.0	1.0
+Amantadine	1.0	1.0
+Cortisone	1.0	1.0
+profenamine	1.0	1.0
+Bethanechol Compounds	1.0	1.0
+Triterpenes	1.0	0.579788375668
+4-amino-1-tert-butyl-3-(1'-naphthylmethyl)pyrazolo(3,4-d)pyrimidine	1.0	1.0
+SB 221284	1.0	1.0
+Oxymetazoline	1.0	1.0
+Gout Suppressants	1.0	1.0
+Bridged Bicyclo Compounds, Heterocyclic	0.666193454659	0.0512068290675
+spiroxatrine	1.0	1.0
+SB 269970	1.0	1.0
+Aziridines	1.0	1.0
+Glycosides	0.945379320405	1.0
+Cytochrome P-450 CYP1A2 Inducers	1.0	1.0
+4-(4-chloro-2-methylphenoxy)-N-hydroxybutanamide	0.00221459678457	1.0
+baccatin III	1.0	1.0
+capsazepine	1.0	1.0
+Nucleotides, Cyclic	1.0	1.0
+eriodictyol	1.0	1.0
+Cevanes	1.0	1.0
+Palmitic Acids	1.0	1.0
+ethoprop	1.0	1.0
+Carcinogens	0.49577387394	0.214567408347
+flavanone	1.0	1.0
+loxoprofen	1.0	1.0
+JNJ 26854165	0.0660398020524	1.0
+Vinblastine	1.0	1.0
+hydrocortisone acetate	1.0	1.0
+kavain	1.0	1.0
+SC 514	1.0	1.0
+Ku 0063794	1.0	1.0
+Ophthalmic Solutions	1.0	1.0
+tranilast	1.0	1.0
+Anesthetics, Local	0.49577387394	0.214567408347
+Cytochrome P-450 CYP2C19 Inducers	1.0	1.0
+Pyruvates	1.0	0.0828715527531
+dofetilide	1.0	1.0
+SR 142948	1.0	1.0
+isamoltane	1.0	1.0
+ipsapirone	1.0	1.0
+Levulinic Acids	0.0660398020524	1.0
+Androstanes	0.420752766215	1.0
+Stavudine	1.0	0.0828715527531
+Contraceptives, Oral, Hormonal	0.56048447513	1.0
+Butyrophenones	0.289611724754	1.0
+Organophosphonates	1.0	1.0
+Granisetron	1.0	0.0828715527531
+Phloroglucinol	1.0	1.0
+Moricizine	1.0	1.0
+4,4',4''-(4-propyl-((1)H)-pyrazole-1,3,5-triyl) tris-phenol	0.0660398020524	1.0
+Nafcillin	1.0	1.0
+Oligopeptides	0.642408762608	0.0421997812379
+nifekalant	1.0	1.0
+Donepezil	1.0	1.0
+Cimetidine	1.0	1.0
+Gossypol	1.0	1.0
+fraxetin	1.0	1.0
+Dicloxacillin	1.0	1.0
+Antidotes	1.0	1.0
+cirazoline	0.0660398020524	1.0
+Bupropion	1.0	1.0
+Dinoprostone	1.0	0.0828715527531
+Thienamycins	1.0	1.0
+Timolol	1.0	1.0
+Afatinib	1.0	0.0828715527531
+hexylcaine	1.0	1.0
+8-dibenzothiophen-4-yl-2-morpholin-4-yl-chromen-4-one	0.0660398020524	1.0
+indatraline	1.0	0.0828715527531
+Sunitinib	0.0660398020524	1.0
+oxibendazole	1.0	1.0
+Carbonyl Cyanide p-Trifluoromethoxyphenylhydrazone	1.0	1.0
+saclofen	1.0	1.0
+2-methoxyidazoxan	1.0	0.00351333902871
+Albuterol	1.0	1.0
+Sotalol	1.0	1.0
+Hydroxycorticosteroids	1.0	0.61477660823
+Hydroxyzine	1.0	0.158911193028
+Vasopressins	1.0	1.0
+Aminolevulinic Acid	0.0660398020524	1.0
+Imipramine	1.0	1.0
+Nitrophenols	0.127747655045	0.158911193028
+Nipecotic Acids	1.0	1.0
+triciribine	1.0	1.0
+Lipoxygenase Inhibitors	1.0	0.292690107075
+cerivastatin	1.0	1.0
+Pesticides	0.22298258154	0.676297663556
+17-Ketosteroids	1.0	1.0
+Lisuride	1.0	1.0
+Ritodrine	1.0	1.0
+BMY 45778	1.0	0.0828715527531
+Ropivacaine	1.0	1.0
+LY 341495	1.0	1.0
+Cilomilast	1.0	1.0
+Ritonavir	1.0	1.0
+Orphenadrine	1.0	1.0
+Antipsychotic Agents	0.872829066975	0.295479143242
+Pyrilamine	1.0	1.0
+Rifamycins	1.0	1.0
+histamine trifluoromethyl-toluidide	1.0	1.0
+Retinyl Esters	1.0	0.00351333902871
+Promazine	1.0	1.0
+Docetaxel	1.0	1.0
+ipriflavone	1.0	1.0
+Hypolipidemic Agents	0.126208615546	0.790636341527
+Glycoside Hydrolase Inhibitors	1.0	1.0
+AG 494	1.0	1.0
+Etazolate	1.0	0.0828715527531
+Cyproheptadine	1.0	1.0
+Iopanoic Acid	1.0	1.0
+2-(4-(2-carboxyethyl)phenethylamino)-5'-N-ethylcarboxamidoadenosine	1.0	1.0
+N-(6-phenylhexyl)-5-chloro-1-naphthalenesulfonamide	1.0	1.0
+Thiophenes	0.863997903826	0.716570315256
+Isocyanates	1.0	0.0282572466623
+Peptides, Cyclic	0.239278189055	1.0
+3-(triphenylmethylaminomethyl)pyridine	1.0	1.0
+talipexole	1.0	1.0
+Abortifacient Agents, Nonsteroidal	1.0	1.0
+JNJ 10191584	1.0	1.0
+Acamprosate	1.0	0.00351333902871
+Tramadol	1.0	1.0
+Valsartan	1.0	1.0
+Thiazides	1.0	0.351416515016
+Diphenylacetic Acids	1.0	1.0
+vapiprost	1.0	1.0
+alpha-pentyl-3-(2-quinolinylmethoxy)benzenemethanol	1.0	1.0
+Tadalafil	1.0	1.0
+hyoscine N-oxide	1.0	1.0
+Procainamide	1.0	0.0828715527531
+Sydnones	1.0	1.0
+herniarin	1.0	1.0
+isoflupredone acetate	1.0	1.0
+Clomiphene	1.0	1.0
+ST 91	1.0	1.0
+Alprenolol	1.0	1.0
+Estrogen Receptor Antagonists	1.0	1.0
+PIK 75	1.0	1.0
+Raloxifene Hydrochloride	1.0	1.0
+Thienopyridines	1.0	1.0
+Desoximetasone	1.0	1.0
+Angiogenesis Inhibitors	0.00833306472289	1.0
+Mustard Compounds	1.0	1.0
+acadesine	1.0	1.0
+1-(5-(2-thenyloxy)-1H-indol-3-yl)propan-2-amine	1.0	1.0
+Schistosomicides	1.0	1.0
+Alkynes	1.0	1.0
+T0156	1.0	1.0
+Glycocholic Acid	1.0	1.0
+Excitatory Amino Acid Antagonists	0.348367390197	0.461799420336
+PK 11195	1.0	1.0
+Technology, Pharmaceutical	1.0	1.0
+polydatin	1.0	1.0
+Propafenone	1.0	1.0
+Gastrointestinal Agents	1.0	1.0
+Anions	1.0	0.541641981282
+Opiate Alkaloids	1.0	1.0
+One-Carbon Group Transferases	1.0	1.0
+Topotecan	1.0	1.0
+Adrenergic Uptake Inhibitors	0.642408762608	1.0
+5-amino-7-(2-phenylethyl)-2-(2-furyl)pyrazolo(4,3-e)-1,2,4-triazolo(1,5-c)pyrimidine	1.0	1.0
+Oxidoreductases Acting on CH-NH2 Group Donors	1.0	1.0
+Cyclooxygenase 2 Inhibitors	1.0	0.454716282469
+GANT58	1.0	1.0
+Memantine	1.0	1.0
+Furans	1.0	1.0
+Benzylisoquinolines	0.14966310099	0.579788375668
+Guanidines	0.688406765663	0.771551817207
+TGX 221	1.0	1.0
+alrestatin	1.0	1.0
+nafadotride	1.0	1.0
+prednisolone hemisuccinate	1.0	1.0
+Pyridostigmine Bromide	1.0	1.0
+Hydrocarbons, Chlorinated	1.0	1.0
+Phosphates	1.0	1.0
+Cefdinir	1.0	1.0
+Fumarates	1.0	1.0
+1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-methylisoxazol-3-yl)urea	1.0	1.0
+Gatifloxacin	1.0	1.0
+BX795	1.0	1.0
+10-hydroxycamptothecin	1.0	1.0
+Phenylhydrazines	1.0	1.0
+gliquidone	1.0	1.0
+Thiorphan	1.0	1.0
+Purinergic Agents	0.728524978933	0.489882334783
+Serotonin	1.0	1.0
+Phentolamine	1.0	1.0
+Diterpenes, Kaurane	0.0660398020524	1.0
+coumarin	1.0	1.0
+17-Hydroxycorticosteroids	1.0	0.500054132163
+Respiratory System Agents	0.533973309407	0.992635843768
+ricinine	1.0	1.0
+Nizatidine	1.0	1.0
+AR-C239	1.0	1.0
+1-(2,3-dichlorobenzoyl)-5-methoxy-2-methyl-(2-(mopholin-4-yl)ethyl)-1H-indole	1.0	1.0
+Disulfiram	1.0	1.0
+Factor Xa Inhibitors	1.0	1.0
+Antineoplastic Agents	1.0	1.0
+Toluene	1.0	0.158911193028
+Catechol O-Methyltransferase Inhibitors	0.127747655045	1.0
+Food Preservatives	1.0	1.0
+Fluorenes	1.0	1.0
+Cyclic AMP	1.0	1.0
+Aminopyridines	0.173597067471	1.0
+tipifarnib	1.0	1.0
+entacapone	1.0	1.0
+KN 93	1.0	1.0
+Colforsin	0.127747655045	1.0
+Amino Acids, Branched-Chain	1.0	1.0
+propentofylline	1.0	1.0
+ZM 241385	1.0	1.0
+Angiogenesis Modulating Agents	0.00833306472289	1.0
+Hydralazine	1.0	1.0
+Sulfonamides	0.686016863153	1.0
+diphenylcyclopropenone	1.0	1.0
+N-(2-(methylamino)ethyl)-5-isoquinolinesulfonamide	0.0660398020524	1.0
+tamibarotene	0.0660398020524	1.0
+LFM A12	1.0	1.0
+LFM A13	1.0	1.0
+Norethindrone	1.0	1.0
+HIV Fusion Inhibitors	1.0	1.0
+Pentoxifylline	1.0	1.0
+Sensory System Agents	1.0	1.0
+Mycophenolic Acid	0.00847261721979	1.0
+1-(3-trifluoromethylphenyl)piperazine	1.0	1.0
+Dienestrol	1.0	1.0
+Xanthinol Niacinate	1.0	1.0
+AQ-RA 741	1.0	1.0
+Cannabinoid Receptor Agonists	1.0	0.405292396525
+Flupenthixol	1.0	1.0
+Fatty Acids, Essential	1.0	1.0
+Phosphoramides	1.0	1.0
+BMY 7378	1.0	1.0
+roxatidine acetate	1.0	1.0
+Clobetasol	1.0	1.0
+Rolipram	1.0	1.0
+trans-1,4-Bis(2-chlorobenzaminomethyl)cyclohexane Dihydrochloride	0.0660398020524	1.0
+J 104129	1.0	1.0
+Phenylammonium Compounds	1.0	1.0
+Oxprenolol	1.0	1.0
+Pilocarpine	1.0	1.0
+Androstanols	1.0	1.0
+Flavoxate	1.0	1.0
+Pioglitazone	1.0	1.0
+Tropicamide	1.0	1.0
+Nomifensine	1.0	1.0
+Pentanoic Acids	1.0	1.0
+N-(4-methoxybenzyl)-N'-(5-nitro-1,3-thiazol-2-yl)urea	1.0	1.0
+Nandrolone	1.0	0.0828715527531
+Enzymes and Coenzymes	0.104315311092	1.0
+Famotidine	1.0	1.0
+Sphingosine	1.0	1.0
+Linoleic Acid	1.0	1.0
+peucedanin	1.0	1.0
+Enzymes	1.0	1.0
+Zearalenone	1.0	1.0
+Pregnadienes	1.0	0.807423799817
+salicin	1.0	1.0
+norbinaltorphimine	1.0	1.0
+Contraceptives, Oral, Synthetic	0.56048447513	0.646866774809
+Ondansetron	1.0	1.0
+tosufloxacin	1.0	0.0828715527531
+Zidovudine	1.0	1.0
+calcipotriene	1.0	1.0
+Clofazimine	1.0	1.0
+Benzimidazoles	0.262196388632	0.640300989686
+Theophylline	1.0	1.0
+Azepines	1.0	0.432841726566
+Acridines	1.0	1.0
+arcyriaflavin A	1.0	1.0
+Uricosuric Agents	1.0	1.0
+Keratolytic Agents	0.289611724754	0.351416515016
+Adenosine-5'-(N-ethylcarboxamide)	1.0	1.0
+Lipid Regulating Agents	0.141616988777	0.489882334783
+Food Additives	1.0	1.0
+treprostinil	1.0	1.0
+perospirone	1.0	1.0
+Dibenzoxazepines	1.0	1.0
+Coumestrol	1.0	1.0
+Enzyme Inhibitors	1.0	1.0
+AM 251	1.0	1.0
+eprosartan	1.0	1.0
+CCR5 Receptor Antagonists	1.0	1.0
+Progesterone Congeners	1.0	1.0
+Thyronines	1.0	1.0
+Steroid Synthesis Inhibitors	0.58967635933	1.0
+Indinavir	1.0	1.0
+SNS 314	1.0	1.0
+GANT 61	1.0	1.0
+Loratadine	1.0	1.0
+Norsteroids	0.52923176599	0.61477660823
+Phytoestrogens	1.0	0.405292396525
+Contraceptives, Oral	0.616942390919	0.703288491251
+Nitric Oxide Donors	1.0	1.0
+betulinic acid	1.0	1.0
+Propoxycaine	1.0	1.0
+Methocarbamol	1.0	1.0
+Indole Alkaloids	0.763510251603	0.273466142934
+Aspirin	1.0	1.0
+Organometallic Compounds	1.0	1.0
+5-iodo-3-((3,5-dibromo-4-hydroxyphenyl)methylene)-2-indolinone	1.0	1.0
+Noscapine	1.0	1.0
+Azauridine	1.0	1.0
+Iron Chelating Agents	1.0	1.0
+N,N-di-n-hexyl-2-(4-fluorophenyl)indole-3-acetamide	1.0	1.0
+Phenylalanine	1.0	0.228679189538
+tyrphostin AG825	1.0	1.0
+Rosuvastatin Calcium	0.0660398020524	1.0
+T 98475	1.0	1.0
+phensuximide	1.0	1.0
+Loperamide	1.0	1.0
+Thyroid Hormones	1.0	1.0
+Dibenz(b,f)(1,4)oxazepine-10(11H)-carboxylic acid, 8-chloro-, 2-acetylhydrazide	1.0	1.0
+Pergolide	1.0	1.0
+Benzydamine	1.0	1.0
+Teniposide	1.0	1.0
+Bronchodilator Agents	0.820609889891	0.88645465892
+2-(1H-indazol-4-yl)-6-(4-methanesulfonylpiperazin-1-ylmethyl)-4-morpholin-4-ylthieno(3,2-d)pyrimidine	1.0	1.0
+Narcotics	1.0	1.0
+Artemether	1.0	1.0
+Oxyquinoline	1.0	1.0
+Oils	1.0	1.0
+Indoles	1.0	1.0
+Piperidines	1.0	1.0
+Orlistat	1.0	0.0828715527531
+L 152804	1.0	1.0
+Amebicides	1.0	0.0957747872247
+1,3-ditolylguanidine	1.0	1.0
+Miotics	1.0	1.0
+Histone Deacetylase Inhibitors	0.0160290213264	1.0
+Phosphodiesterase 5 Inhibitors	1.0	1.0
+Camphanes	1.0	1.0
+Ribonucleosides	0.531460866811	0.659036474072
+depudecin	0.0660398020524	1.0
+GW 501516	1.0	1.0
+laudanosine	1.0	1.0
+Adrenergic beta-Antagonists	0.763510251603	1.0
+4-(4-(2,3-dihydrobenzo(1,4)dioxin-6-yl)-5-pyridin-2-yl-1H-imidazol-2-yl)benzamide	1.0	1.0
+Androgens	1.0	0.351416515016
+Pituitary Hormones	1.0	1.0
+Cyclohexenes	0.14966310099	0.0567558792579
+cimaterol	1.0	0.0828715527531
+LY 320135	1.0	1.0
+Sodium Channel Blockers	1.0	0.728040498886
+Purines	0.666563678266	0.630145983626
+Paroxetine	1.0	1.0
+Hematologic Agents	0.92720567354	0.842386146083
+stiripentol	1.0	1.0
+SU 6656	1.0	1.0
+Mupirocin	1.0	1.0
+6-chloro-2-(1-piperazinyl)pyrazine	1.0	1.0
+Ramipril	1.0	1.0
+loreclezole	1.0	1.0
+carbetocin	1.0	1.0
+Anti-Inflammatory Agents	1.0	1.0
+4-chloro-2-(imidazolin-2-yl)isoindoline	1.0	1.0
+Hydrocarbons, Cyclic	1.0	1.0
+roquinimex	0.0660398020524	1.0
+TO-901317	1.0	1.0
+huperzine A	1.0	1.0
+Quinolines	0.815995502348	1.0
+5-Methoxytryptamine	1.0	1.0
+Tinidazole	1.0	1.0
+estradiol 3-benzoate	1.0	1.0
+Sulfhydryl Reagents	1.0	1.0
+Carbapenems	1.0	1.0
+Dioxoles	1.0	0.579788375668
+Pemoline	1.0	1.0
+6-anilino-5,8-quinolinedione	1.0	1.0
+Amodiaquine	1.0	1.0
+Agrochemicals	0.22298258154	0.676297663556
+1-(2-methylbenzoxazol-6-yl)-3-(1,5)naphthyridin-4-yl urea	1.0	0.0828715527531
+Chloroquine	1.0	1.0
+ellipticine	1.0	1.0
+AZD2811	1.0	1.0
+N-(3-methoxyphenyl)-4-chlorocinnamanilide	1.0	0.0828715527531
+clebopride	1.0	1.0
+Caffeic Acids	1.0	1.0
+Heterocyclic Compounds	1.0	1.0
+Lamotrigine	1.0	1.0
+Sulfacetamide	1.0	1.0
+Mitotane	1.0	1.0
+PI103	1.0	1.0
+lawsone	1.0	1.0
+PQ 401	1.0	1.0
+estropipate	1.0	1.0
+eburnamonine	0.0660398020524	1.0
+Hydrocarbons, Brominated	0.0660398020524	1.0
+Semicarbazides	1.0	1.0
+Imidazoles	1.0	1.0
+Hypoxanthines	1.0	1.0
+splitomicin	1.0	1.0
+Saquinavir	1.0	1.0
+Flufenamic Acid	1.0	1.0
+alpha-amino-3-hydroxy-5-tert-butyl-4-isoxazolepropionate	1.0	1.0
+Cholic Acids	1.0	0.541641981282
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	1.0	0.0828715527531
+Mepivacaine	1.0	1.0
+zatebradine	1.0	1.0
+Amino Acids, Sulfur	1.0	1.0
+1 alpha-hydroxyergocalciferol	0.0660398020524	1.0
+2-(4-ethylpiperazin-1-yl)-N-(4-(2-morpholino-4-oxo-4H-chromen-8-yl)dibenzo(b,d)thiophen-1-yl)acetamide	1.0	1.0
+MLN 8237	1.0	1.0
+Ro 15-4513	1.0	1.0
+Angiotensin Receptor Antagonists	0.104315311092	1.0
+Vorinostat	1.0	1.0
+Gestrinone	0.0660398020524	1.0
+Anticestodal Agents	1.0	0.228679189538
+oxantel	0.0660398020524	1.0
+Pentacyclic Triterpenes	1.0	1.0
+Cefixime	1.0	1.0
+Nicotinic Agonists	1.0	1.0
+Cholinesterase Inhibitors	1.0	1.0
+3,4,5-trihydroxybenzamidoxime	1.0	1.0
+fatostatin	1.0	1.0
+Ethers	0.298493723684	0.750738417856
+Calcifediol	0.0660398020524	1.0
+Provitamins	1.0	1.0
+homosalate	1.0	1.0
+Salicylanilides	1.0	1.0
+pevonedistat	1.0	0.0828715527531
+Phytochemicals	1.0	1.0
+Glycine Decarboxylase Complex	1.0	1.0
+Withanolides	1.0	1.0
+2-Aminopurine	1.0	1.0
+Chromomycin A3	1.0	1.0
+Teratogens	1.0	1.0
+NNC 55-0396	1.0	1.0
+Contraceptive Agents, Hormonal	0.728524978933	0.808134848307
+Flucytosine	1.0	1.0
+Ketosteroids	1.0	1.0
+Nifedipine	1.0	1.0
+Letrozole	1.0	1.0
+Naloxone	1.0	1.0
+Pentylenetetrazole	1.0	1.0
+Y 26763	1.0	1.0
+Arachidonic Acids	1.0	1.0
+Norpregnatrienes	0.18540579343	1.0
+cardiogenol C	1.0	1.0
+Glucosides	1.0	1.0
+Acebutolol	1.0	1.0
+Strychnine	1.0	0.0828715527531
+7-nitroindazole	1.0	1.0
+xanthohumol	0.0660398020524	1.0
+Valerates	1.0	0.228679189538
+Neurotransmitter Agents	1.0	1.0
+benzyloxycarbonylleucyl-leucyl-leucine aldehyde	1.0	0.0828715527531
+Adenosine A2 Receptor Antagonists	1.0	1.0
+4-(3-chloro-2-fluorophenoxy)-1-((6-(1,3-thiazol-2-ylamino)pyridin to 2-yl)methyl) cyclohexanecarboxylic acid	1.0	1.0
+siguazodan	1.0	1.0
+4-(2-(5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthalenyl)-1-propenyl)benzoic acid	1.0	1.0
+Uridine	1.0	1.0
+Glyburide	1.0	1.0
+3-((4-(4-chlorophenyl)piperazin-1-yl)methyl)-1H-pyrrolo(2,3-b)pyridine	1.0	1.0
+chloroxine	1.0	1.0
+Oxides	1.0	1.0
+Terpenes	0.547970724981	0.225399723199
+Contraceptive Agents	0.7940151724	0.864734495456
+CGP 57380	1.0	1.0
+Viral Protease Inhibitors	1.0	1.0
+Triazenes	1.0	1.0
+Vasodilator Agents	1.0	1.0
+Biogenic Monoamines	0.616942390919	0.34153828959
+Etoposide	1.0	1.0
+Pregnadienetriols	1.0	0.403080857025
+Oxidoreductases	1.0	1.0
+Digitoxigenin	1.0	1.0
+Purinergic Agonists	0.459956407841	1.0
+Benzamides	0.307709608669	0.0271453233986
+5-methoxycarbonylamino-N-acetyltryptamine	1.0	1.0
+pyrimidin-2-one beta-ribofuranoside	1.0	0.0828715527531
+gemcitabine	1.0	1.0
+vitexin	1.0	1.0
+Cresols	1.0	1.0
+Cymarine	1.0	1.0
+cholesterol alpha-oxide	1.0	1.0
+Laboratory Chemicals	0.157619488609	1.0
+Antimycin A	1.0	1.0
+amthamine	1.0	1.0
+Cisapride	1.0	1.0
+Antimutagenic Agents	1.0	1.0
+Maraviroc	1.0	1.0
+Cytochalasins	1.0	1.0
+Phosphoric Acids	1.0	1.0
+Cathartics	1.0	0.0702571717711
+Dobutamine	1.0	1.0
+Ethambutol	1.0	0.0828715527531
+Artemisinins	1.0	1.0
+Psychotropic Drugs	1.0	1.0
+Quaternary Ammonium Compounds	1.0	0.123459112845
+loxoribine	1.0	1.0
+iodopravadoline	1.0	1.0
+Desoxycorticosterone	1.0	1.0
+Thiotepa	1.0	1.0
+Serotonin Agents	0.738152037781	1.0
+nikkomycin	1.0	1.0
+Antifungal Agents	0.57158732198	1.0
+Fosinopril	1.0	0.0828715527531
+Mineralocorticoid Receptor Antagonists	1.0	1.0
+Formoterol Fumarate	1.0	1.0
+Antidiuretic Agents	1.0	1.0
+Coccidiostats	1.0	1.0
+Proguanil	1.0	1.0
+Nonoxynol	1.0	1.0
+Neuromuscular Depolarizing Agents	1.0	0.158911193028
+latrunculin B	1.0	1.0
+Ipratropium	1.0	1.0
+Azacitidine	0.127747655045	1.0
+pinocembrin	1.0	1.0
+Vindesine	1.0	1.0
+Diltiazem	1.0	1.0
+YM 976	1.0	1.0
+Gefitinib	1.0	1.0
+Methyl Ethers	1.0	1.0
+Aza Compounds	0.198095994911	0.278197782419
+quisinostat	0.0660398020524	1.0
+Carticaine	1.0	1.0
+Adrenergic beta-1 Receptor Agonists	0.127747655045	1.0
+nimesulide	1.0	1.0
+Sleep Aids, Pharmaceutical	0.239278189055	1.0
+dexamethasone acetate	1.0	1.0
+Cholinergic Antagonists	0.510470271669	0.367391045541
+calpeptin	1.0	1.0
+Procyclidine	1.0	1.0
+Pyrans	1.0	1.0
+carbinoxamine	1.0	1.0
+Estrogenic Steroids, Alkylated	1.0	1.0
+triptolide	1.0	1.0
+ethamivan	1.0	1.0
+Catechols	1.0	0.750738417856
+14-alpha Demethylase Inhibitors	0.336637293046	1.0
+1-(3,4-dichlorophenyl)acetyl-2-(1-pyrrolidinyl)methylpiperidine	1.0	1.0
+Vitamin A	0.239278189055	1.0
+Menstruation-Inducing Agents	1.0	1.0
+Metaproterenol	1.0	1.0
+Valproic Acid	1.0	1.0
+Norethynodrel	1.0	1.0
+Acetaldehyde Dehydrogenase Inhibitors	1.0	1.0
+4-hydroxyretinoic acid	1.0	1.0
+XL147	1.0	1.0
+Risperidone	1.0	1.0
+Integrase Inhibitors	0.127747655045	1.0
+Secologanin Tryptamine Alkaloids	0.688406765663	0.183173114162
+Imides	0.00713490219997	1.0
+Androstenedione	1.0	1.0
+Perindopril	1.0	1.0
+Hydrazines	0.56048447513	0.646866774809
+Meclofenamic Acid	1.0	1.0
+Cyclohexanecarboxylic Acids	1.0	1.0
+Mycotoxins	1.0	0.405292396525
+Aminoglutethimide	1.0	1.0
+Purinergic Antagonists	1.0	0.214567408347
+Glipizide	1.0	1.0
+beta-thujaplicin	1.0	1.0
+Anesthetics, Intravenous	0.239278189055	0.292690107075
+Fructose	1.0	1.0
+Bromocriptine	1.0	1.0
+phenethyl isothiocyanate	1.0	0.00351333902871
+rescinnamine	1.0	0.00351333902871
+Deoxyuridine	1.0	1.0
+Uracil	0.0463999753469	1.0
+Organothiophosphates	1.0	1.0
+Lenalidomide	1.0	1.0
+Mitoxantrone	1.0	1.0
+Benzothiazoles	1.0	1.0
+Aminoquinolines	1.0	1.0
+Tosyl Compounds	1.0	1.0
+Platelet Aggregation Inhibitors	1.0	0.733860867664
+Midodrine	1.0	1.0
+Lofepramine	1.0	0.0828715527531
+Emetics	1.0	0.00351333902871
+fluprostenol	1.0	1.0
+Pyrimidinones	0.157619488609	0.824178452904
+Calcimimetic Agents	1.0	1.0
+luzindole	1.0	0.0828715527531
+2-dichlorobenzene	1.0	1.0
+Hydroxymethyl and Formyl Transferases	1.0	1.0
+Equol	1.0	1.0
+quinelorane	1.0	1.0
+ropinirole	1.0	1.0
+Prostaglandins E, Synthetic	1.0	1.0
+Insect Repellents	0.0660398020524	1.0
+Heptanoic Acids	1.0	1.0
+Anti-Ulcer Agents	1.0	0.824178452904
+Glycoconjugates	1.0	1.0
+kinetin riboside	1.0	1.0
+asiaticoside	1.0	0.0828715527531
+Sesquiterpenes, Eudesmane	1.0	1.0
+Acrylamides	1.0	1.0
+OM 137	1.0	1.0
+nilutamide	1.0	1.0
+mesulergine	1.0	0.0828715527531
+tiotidine	1.0	1.0
+Cross-Linking Reagents	1.0	1.0
+phenyl biguanide	0.0660398020524	1.0
+Amphetamines	1.0	1.0
+clobenpropit	1.0	1.0
+Enalaprilat	1.0	1.0
+selamectin	1.0	1.0
+GABA Uptake Inhibitors	1.0	1.0
+berbamine	1.0	1.0
+oligomycin A	1.0	1.0
+oligomycin C	1.0	1.0
+Lactones	1.0	0.43668911001
+5-iodotubercidin	1.0	1.0
+Drug-Related Side Effects and Adverse Reactions	0.910315805415	1.0
+Neuroprotective Agents	0.763510251603	0.543221231237
+Terazosin	1.0	1.0
+N3-cyclopropyl-7-((4-(1-methylethyl)phenyl)methyl)-7H-pyrrolo(3, 2-f)quinazoline-1,3-diamine	1.0	1.0
+Folic Acid Antagonists	1.0	1.0
+Medetomidine	1.0	1.0
+Ranitidine	1.0	1.0
+Diethylstilbestrol	1.0	1.0
+Thalidomide	1.0	1.0
+dimethisoquin	1.0	0.00351333902871
+Dacarbazine	1.0	1.0
+7-(2-(2-(dimethylamino)ethoxy)ethoxy)-6-methoxy-2-(4-methyl-1,4-diazepan-1-yl)-N-(1-methylpiperidin-4-yl)quinazolin-4-amine	1.0	1.0
+Oxalates	1.0	1.0
+Norgestrienone	0.0660398020524	1.0
+erythromycin propionate	1.0	1.0
+Prochlorperazine	1.0	1.0
+Milrinone	1.0	1.0
+cetraxate	1.0	1.0
+10,10-bis(4-pyridinylmethyl)-9(10H)-anthracenone	1.0	1.0
+Sulpiride	1.0	1.0
+CGP 13501	1.0	1.0
+oxfendazole	1.0	1.0
+6-(4-fluorophenyl)-2,3-dihydro-5-(4-pyridinyl)imidazo(2,1-b)thiazole	1.0	1.0
+Clofibric Acid	0.0660398020524	0.0828715527531
+flunisolide	1.0	1.0
+Quinidine	1.0	1.0
+Panobinostat	1.0	1.0
+narciclasine	1.0	1.0
+Peroxides	1.0	1.0
+moexipril	1.0	1.0
+Nialamide	1.0	1.0
+Meclizine	1.0	1.0
+temsirolimus	1.0	1.0
+Amidines	0.709151809256	0.790636341527
+aliskiren	1.0	1.0
+U 74389F	1.0	0.0828715527531
+methyllycaconitine	1.0	1.0
+Lidoflazine	1.0	1.0
+olomoucine	1.0	0.0828715527531
+Chelating Agents	1.0	0.405292396525
+zafirlukast	1.0	1.0
+Benzodiazepinones	1.0	0.214567408347
+Guaifenesin	1.0	1.0
+Metanephrine	1.0	1.0
+Anilides	1.0	0.489882334783
+Antipyrine	0.127747655045	1.0
+Lamivudine	1.0	1.0
+Stilbestrols	1.0	1.0
+1-(1-(cyclooctylmethyl)-1,2,3,6-tetrahydro-5-(hydroxymethyl)-4-pyridinyl)-3-ethyl-1,3-dihydro-2H-benzimidazol-2-one	0.0660398020524	1.0
+Trace Elements	1.0	1.0
+Guanine	1.0	1.0
+methyl 2,5-dihydroxycinnamate	1.0	1.0
+KU 14R	1.0	1.0
+fipronil	1.0	1.0
+althiazide	1.0	1.0
+CGP 55845A	1.0	1.0
+Mephenytoin	1.0	1.0
+Calcium Channel Agonists	1.0	1.0
+N-cyano-N'-(1,1-dimethylpropyl)-N''-(3-pyridinyl)guanidine	1.0	1.0
+Technology, Industry, and Agriculture	1.0	0.541641981282
+Pituitary Hormones, Posterior	1.0	1.0
+Central Nervous System Depressants	1.0	1.0
+Pyrrolizidine Alkaloids	1.0	0.0282572466623
+Ro 31-8220	1.0	1.0
+Teicoplanin	1.0	1.0
+Glycerides	1.0	0.00351333902871
+Antineoplastic Agents, Hormonal	1.0	0.205022944939
+Hesperidin	1.0	1.0
+Nerve Tissue Proteins	1.0	0.0475172047509
+Sugar Acids	1.0	1.0
+Protriptyline	1.0	1.0
+Phenazopyridine	0.127747655045	1.0
+Benzhydryl Compounds	1.0	0.61477660823
+Hexylresorcinol	1.0	1.0
+Benztropine	0.0660398020524	1.0
+Doxapram	1.0	1.0
+Radiopharmaceuticals	1.0	1.0
+Sterols	0.104315311092	1.0
+Vitamin B Complex	0.173597067471	0.61477660823
+rucaparib	1.0	1.0
+CGP 52432	1.0	1.0
+GSK 1070916	1.0	1.0
+VX-745	1.0	1.0
+Estrenes	0.248100180492	0.34153828959
+Molindone	1.0	1.0
+Niacin	1.0	1.0
+2-(1-(7-methyl-2-morpholin-4-yl-4-oxo-4H-pyrido(1,2-a)pyrimidin-9-yl)ethylamino)benzoic acid	1.0	1.0
+prednicarbate	1.0	0.0828715527531
+Antidiarrheals	1.0	1.0
+prostaglandin B2	1.0	1.0
+Esomeprazole	1.0	0.0828715527531
+lobendazole	1.0	1.0
+Trioxsalen	1.0	1.0
+SK and F 77434	1.0	1.0
+pirarubicin	1.0	1.0
+Methazolamide	1.0	1.0
+Piperazines	0.663256410281	1.0
+FPL 55712	1.0	1.0
+Antipruritics	0.666193454659	0.750738417856
+1-Naphthylamine	0.0660398020524	1.0
+Butanes	1.0	1.0
+Citalopram	1.0	1.0
+Carbonic Anhydrase Inhibitors	1.0	0.292690107075
+Galantamine	1.0	1.0
+Dactinomycin	1.0	1.0
+Cyclopentane Monoterpenes	1.0	1.0
+Trimeprazine	0.0660398020524	1.0
+Thiamine	1.0	1.0
+Prothionamide	1.0	1.0
+Sulfur Compounds	1.0	1.0
+2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one	1.0	1.0
+Azabicyclo Compounds	0.42161425154	0.152780436102
+HIV Protease Inhibitors	1.0	1.0
+N-(2,4-difluorophenyl)-N'-(4-((6,7-dimethoxy-4-quinolyl)oxy)-2-fluorophenyl)urea	1.0	1.0
+Wakefulness-Promoting Agents	1.0	1.0
+pyrvinium	1.0	1.0
+pirfenidone	1.0	1.0
+butoconazole	1.0	1.0
+Thiazepines	1.0	1.0
+Benzamidines	1.0	1.0
+SDZ NKT 343	1.0	0.0828715527531
+4-(2-phenyl-5,7-bis(trifluoromethyl)pyrazolo(1,5-a)pyrimidin-3-yl)phenol	1.0	1.0
+N(6)-cyclopentyladenosine	1.0	1.0
+tandutinib	1.0	1.0
+diarylpropionitrile	1.0	0.0828715527531
+PD 123319	0.0660398020524	1.0
+Pyrimidine Nucleosides	0.56048447513	0.278197782419
+HIV Integrase Inhibitors	0.0660398020524	1.0
+Progesterone	1.0	1.0
+Pepstatins	1.0	1.0
+DMP 543	1.0	1.0
+indole-3-carbinol	1.0	1.0
+Dipeptidyl-Peptidase IV Inhibitors	1.0	1.0
+Protein Kinase Inhibitors	0.000161036323864	0.952799950936
+olmesartan	1.0	1.0
+17 alpha-Hydroxyprogesterone Caproate	1.0	1.0
+Angiotensin II Type 2 Receptor Blockers	0.127747655045	1.0
+Steroids, Fluorinated	1.0	1.0
+Phenothiazines	0.688406765663	1.0
+Histamine H3 Antagonists	1.0	1.0
+efavirenz	1.0	1.0
+Methotrexate	1.0	1.0
+LY 171883	1.0	1.0
+Tripelennamine	1.0	1.0
+Butylamines	1.0	1.0
+Somatostatin	1.0	1.0
+Medroxyprogesterone	1.0	1.0
+pazufloxacin	1.0	1.0
+Doxycycline	1.0	1.0
+Pregnanediones	1.0	1.0
+Carteolol	0.0660398020524	1.0
+icilin	1.0	1.0
+Cannabinoid Receptor Modulators	1.0	0.454716282469
+Piperacillin	0.0660398020524	1.0
+Ezetimibe	1.0	1.0
+Fluticasone	1.0	1.0
+YM 155	1.0	1.0
+Bromhexine	1.0	1.0
+3-Iodobenzylguanidine	1.0	1.0
+aristolochic acid I	1.0	1.0
+Ethanolamines	0.763510251603	0.543221231237
+Benzophenanthridines	1.0	1.0
+L-161982	1.0	1.0
+Cefazolin	1.0	1.0
+Alprostadil	1.0	1.0
+Serotonin 5-HT3 Receptor Antagonists	1.0	1.0
+7-methyl-6,7,8,9,14,15-hexahydro-5H-benz(d)indolo(2,3-g)azecine	1.0	1.0
+Doxorubicin	1.0	1.0
+RS 79948-197	1.0	1.0
+palmidrol	1.0	1.0
+7-benzylidenenaltrexone	1.0	1.0
+N-(2-guanidinoethyl)-5-isoquinolinesulfonamide	1.0	1.0
+Peroxisome Proliferators	1.0	1.0
+Brefeldin A	1.0	1.0
+BMS 754807	1.0	1.0
+dihydrosamidine	1.0	1.0
+Camptothecin	1.0	1.0
+Picolinic Acids	1.0	1.0
+Excipients	1.0	1.0
+harpagoside	1.0	1.0
+Neuromuscular Blocking Agents	1.0	0.351416515016
+Cabergoline	1.0	1.0
+Drug Therapy	1.0	1.0
+Adenylyl Cyclase Inhibitors	1.0	0.158911193028
+Serotonin Receptor Agonists	0.443991974662	0.852372388377
+5-alpha Reductase Inhibitors	1.0	1.0
+Alcohols	0.70768881327	1.0
+parthenolide	1.0	1.0
+Trimipramine	1.0	1.0
+Sumatriptan	1.0	1.0
+Zimeldine	1.0	1.0
+Antispermatogenic Agents	1.0	1.0
+Febuxostat	1.0	1.0
+MK 473	1.0	1.0
+Bithionol	1.0	1.0
+1-(2-(3-(4-methoxyphenyl)propoxy)-4-methoxyphenylethyl)-1H-imidazole	1.0	1.0
+2,6-di-tert-butyl-4-(3-hydroxy-2,2-dimethylpropyl)phenol	1.0	1.0
+Doxepin	1.0	1.0
+Oxazines	0.627035688014	0.281195896341
+Nitrosourea Compounds	1.0	1.0
+SB 225002	1.0	1.0
+3-(2-((phenylamino)carbonyl)ethenyl)-4,6-dichloroindole-2-carboxylic acid	1.0	1.0
+ENMD 2076	1.0	1.0
+Isothiocyanates	1.0	0.0282572466623
+beta-Lactams	0.779285317491	0.852372388377
+CGK 733	1.0	1.0
+Fats	1.0	1.0
+ICI D2788	1.0	0.00351333902871
+Nicardipine	1.0	1.0
+LDN 193189	1.0	1.0
+ziprasidone	1.0	1.0
+Ethacrynic Acid	1.0	1.0
+Procarbazine	1.0	0.0828715527531
+T 0070907	1.0	1.0
+BRL 15572	1.0	1.0
+daphnetin	1.0	0.0828715527531
+Preservatives, Pharmaceutical	1.0	1.0
+ST 638	1.0	0.0828715527531
+Azetidines	1.0	1.0
+SB 216763	0.00221459678457	1.0
+Multiprotein Complexes	1.0	1.0
+Phenethylamines	0.728524978933	1.0
+2-(morpholin-4-yl)benzo(h)chromen-4-one	1.0	1.0
+Hypnotics and Sedatives	0.39703501564	0.824178452904
+Quinones	1.0	0.728040498886
+Ro 60-0175	1.0	1.0
+BRL 37344	1.0	1.0
+Etomidate	0.0660398020524	1.0
+Hydroxybenzoate Ethers	1.0	1.0
+Cyclopenthiazide	1.0	0.0828715527531
+5-methoxy 3-(1,2,3,6-tetrahydro-4-pyridinyl)1H indole	1.0	1.0
+Ergotamines	1.0	1.0
+Pyrazoles	0.446093810861	0.931833216024
+Rosiglitazone	1.0	1.0
+Rifabutin	1.0	1.0
