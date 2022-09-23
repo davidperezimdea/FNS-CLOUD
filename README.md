@@ -34,6 +34,10 @@ Help has as main page help.php.
 
 Download has as main page download.php.
 
+The database that is used to the page is the FooDrugs database: A database with molecular and text information about food - drug interactions. 
+
+Carrillo de Santa Pau, Enrique, Garranzo, Marco, & Laguna Lobo, Teresa. (2022). DOI :  https://doi.org/10.5281/zenodo.6638470 .
+
 To download the database http://imdeafoodcompubio.com/index.php/download/
 
 
